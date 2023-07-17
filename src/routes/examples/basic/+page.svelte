@@ -175,16 +175,16 @@
 
 
 <div class="card w-72 shadow-xl py-2 z-10 rounded-md bg-surface-800" data-popup="popupCombobox">
-	<ListBox rounded="rounded-none" class="text-on-surface-token h-[40vh] overflow-y-scroll transition duration-250 ease-in-out bg-surface-800" hover="hover:brightness-125">
-    <ListBoxItem bind:group={filterCategory} name="category" value={null} class="bg-opacity-80" >
-      <div class="flex items-center gap-2">
+	<ListBox active="bg-surface-600" rounded="rounded-none" class="text-on-surface-token h-[40vh] overflow-y-scroll transition duration-250 ease-in-out bg-surface-800" hover="hover:brightness-150">
+    <ListBoxItem bind:group={filterCategory} name="category" value={null} class="bg-opacity-80 group">
+      <div class="flex items-center gap-2 group-hover:scale-[1.02] transition duration-150 ease-in-out">
         <span class="text-2xl">🍽</span>
         <span>Alla</span>
       </div>
     </ListBoxItem>
     {#each Object.entries(categoryMap) as [categoryName, category]}
-      <ListBoxItem bind:group={filterCategory} name="category" value={categoryName} class="bg-opacity-80" >
-        <div class="flex items-center gap-2">
+      <ListBoxItem bind:group={filterCategory} name="category" value={categoryName} class="bg-opacity-80 group" >
+        <div class="flex items-center gap-2 group-hover:scale-[1.02] transition duration-150 ease-in-out">
           <span class="text-2xl">{category.icon}</span>
           <span>{categoryName}</span>
         </div>
@@ -208,6 +208,7 @@
   standardControls
   zoom={13}
   center={[18.07, 59.325]}
+  maxBounds={[[17.82, 59.2573], [18.32, 59.3927]]}
 >
   {#each filteredRestaurants as restaurant (restaurant.id)}
   {@const category = categoryMap[restaurant.category]}
