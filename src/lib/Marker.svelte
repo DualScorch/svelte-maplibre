@@ -3,6 +3,7 @@
   import { createEventDispatcher } from 'svelte';
   import { updatedMarkerContext } from './context';
   import type { MarkerClickInfo } from './types';
+  import { fly } from 'svelte/transition';
 
   export let lngLat: LngLatLike;
   let classNames: string | undefined = undefined;

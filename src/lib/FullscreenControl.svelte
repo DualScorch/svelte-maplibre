@@ -16,7 +16,6 @@
     } else {
       containerEl = container;
     }
-
     control = new maplibregl.FullscreenControl({
       container: containerEl,
     });

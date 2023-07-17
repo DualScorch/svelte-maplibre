@@ -43,7 +43,6 @@ If you don't have one, you can set this to a blank value to use the other exampl
 
 - Fix layers not removing while data sources elsewhere in the map are loading
 
-
 ## Credits
 
 Logo created by [Bruce Wayyn](https://github.com/brucewayyn)
