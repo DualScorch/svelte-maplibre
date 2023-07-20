@@ -168,8 +168,8 @@
   {#if $mapInstance && loaded}
     {#if standardControls}
       <NavigationControl position={standardControlsPosition} />
-      <!-- <GeolocateControl position={standardControlsPosition} fitBoundsOptions={{ maxZoom: 12 }} /> -->
-      <!-- <FullscreenControl position={standardControlsPosition} /> -->
+      <GeolocateControl position={standardControlsPosition} fitBoundsOptions={{ maxZoom: 12 }} />
+      <FullscreenControl position={standardControlsPosition} />
       <ScaleControl position={standardControlsPosition} />
     {/if}
     <slot map={$mapInstance} loadedImages={$loadedImages} {allImagesLoaded} />

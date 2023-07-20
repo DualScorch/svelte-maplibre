@@ -1,0 +1,6320 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bistro Bananas",
+                "category": "Pizza",
+                "id": "ChIJCSFExvB3X0YRK-RXzK3XnNs"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0752697,
+                    59.31179759999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "800 grader",
+                "category": "Pizza",
+                "id": "ChIJmx9BdnqdX0YR2cwxvr1So4o"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0406707,
+                    59.34219309999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Meno Male",
+                "category": "Pizza",
+                "id": "ChIJtXI1lth3X0YR138Xx06TjWc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0453186,
+                    59.3287934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Babette",
+                "category": "Pizza",
+                "id": "ChIJH77VW2mdX0YRnFhzR0TCjH0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0615903,
+                    59.34488950000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Crispy Pizza Bistro",
+                "category": "Pizza",
+                "id": "ChIJx1AVi2-dX0YR4K3jiD5M_YY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0496124,
+                    59.3412581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "450 Gradi",
+                "category": "Pizza",
+                "id": "ChIJv8zFqFKCX0YRYWpMGAcLP8o"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1532322,
+                    59.34392049999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Giretto",
+                "category": "Pizza",
+                "id": "ChIJw3HE_h6dX0YR6TWJe1NPeKQ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0701459,
+                    59.3186331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dirty Dough",
+                "category": "Pizza",
+                "id": "ChIJdebl4TB5X0YRlrwNS0GvGJE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0950138,
+                    59.2566009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Piccola Nonna",
+                "category": "Pizza",
+                "id": "ChIJKx9K3Fd3X0YRFmgPrgX_DFo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0742473,
+                    59.3103321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Deglabbet",
+                "category": "Pizza",
+                "id": "ChIJZUaPoH6dX0YRISA6UUKNMqM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0537117,
+                    59.33723920000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stålhammar pop-up pizza",
+                "category": "Pizza",
+                "id": "ChIJ0y0C8gx3X0YR7I1vwXvHlmI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0493934,
+                    59.31095449999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "dell'Attore",
+                "category": "Pizza",
+                "id": "ChIJpfnHiE-dX0YRYNxhC2sxxvQ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0861846,
+                    59.3379359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brillo Pizza",
+                "category": "Pizza",
+                "id": "ChIJi_L7-vmdX0YRUSePqKHX7-w"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0507896,
+                    59.3433459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Savoj",
+                "category": "Pizza",
+                "id": "ChIJf2Ar1ZmdX0YRzTtpe6LqcM8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0569135,
+                    59.3493043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Capri Due's Bakficka",
+                "category": "Pizza",
+                "id": "ChIJfeRAUnidX0YR-aZKQJNetjw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0310226,
+                    59.34132760000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pazzi",
+                "category": "Pizza",
+                "id": "ChIJK3v3F_d3X0YRUCsyvo0x8eA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0785826,
+                    59.3108802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lilla Pixel",
+                "category": "Pizza",
+                "id": "ChIJHWcJPD2dX0YRs6OJkzQlXTw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0050907,
+                    59.3517393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bistro Leoparden",
+                "category": "Pizza",
+                "id": "ChIJw8gfCgCdX0YRKn83NCpvzpo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0608872,
+                    59.3399155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mogge Sushi",
+                "category": "Sushi/Japanese",
+                "id": "ChIJbb7RPOJ3X0YRcyzK89Zhjx0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0671818,
+                    59.3249775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sushi Sho",
+                "category": "Sushi/Japanese",
+                "id": "ChIJVVVV8m-dX0YRrWZ8HbLSOhM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0497953,
+                    59.3412164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sushi Oi",
+                "category": "Sushi/Japanese",
+                "id": "ChIJ9zslfkSdX0YRm8199OjaVVo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0773724,
+                    59.3400758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Soyokafé",
+                "category": "Sushi/Japanese",
+                "id": "ChIJH9u1T6F5X0YRC3yAt1Za0w4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0636727,
+                    59.3342434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Indio Kitchen",
+                "category": "Sushi/Japanese",
+                "id": "ChIJN3aSrfl3X0YRWomaqrYgsUY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0834093,
+                    59.31467769999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hattori",
+                "category": "Sushi/Japanese",
+                "id": "ChIJX1RDSTqdX0YR6iS2XtHna8g"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.067316,
+                    59.33577219999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Susherian",
+                "category": "Sushi/Japanese",
+                "id": "ChIJmVFisdh3X0YR34xIbkDc75A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0772103,
+                    59.30882589999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Minako Sushi",
+                "category": "Sushi/Japanese",
+                "id": "ChIJFXknWWWdX0YRA3B4ZO8y0Wg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0485775,
+                    59.3410016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tokyo Diner",
+                "category": "Sushi/Japanese",
+                "id": "ChIJIRaD9l2dX0YRFzQo3E3_Cyw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0626557,
+                    59.33439720000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Black Milk Sushi",
+                "category": "Sushi/Japanese",
+                "id": "ChIJw7E6WA2dX0YRN_020tGbinI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0697198,
+                    59.3381453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dashi",
+                "category": "Sushi/Japanese",
+                "id": "ChIJPx3u7budX0YRB2JLoqpp-vQ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0659057,
+                    59.3426521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Blue Light Yokohama",
+                "category": "Sushi/Japanese",
+                "id": "ChIJM3XHXPh3X0YRSbEwTDOha3s"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0855244,
+                    59.3143555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MamaWolf",
+                "category": "Sushi/Japanese",
+                "id": "ChIJ1SL7h-Z3X0YR1MNoG2kpiSI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0599104,
+                    59.3177078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saisho Sushi",
+                "category": "Sushi/Japanese",
+                "id": "ChIJzXenxMR3X0YRdoibZ-HovYU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0072024,
+                    59.3322169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cantina Raw",
+                "category": "Sushi/Japanese",
+                "id": "ChIJN71l2YefX0YRL-eqbbmrgxA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8639743,
+                    59.4017142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Akki Sushi",
+                "category": "Sushi/Japanese",
+                "id": "ChIJDxPW_8R3X0YRuQTiyNw0_zU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0339257,
+                    59.3166033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barbro",
+                "category": "Sushi/Japanese",
+                "id": "ChIJ2W3NMcR3X0YR0df9CuhZpGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0332041,
+                    59.3143617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Washoku TOMO",
+                "category": "Sushi/Japanese",
+                "id": "ChIJL3sZi0N3X0YR4tpM_n1nhJg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0598961,
+                    59.3187692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Peony",
+                "category": "Chinese",
+                "id": "ChIJ_TKExCB4X0YRSMYkp09WDhA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0788015,
+                    59.2962675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ho’s",
+                "category": "Chinese",
+                "id": "ChIJNSW6z8V3X0YRSE_vYuVT50s"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0326231,
+                    59.31499839999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Formosa",
+                "category": "Chinese",
+                "id": "ChIJ104zHeN3X0YRYawDS0VIYWE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0707424,
+                    59.323054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chong Qing",
+                "category": "Chinese",
+                "id": "ChIJke-UasZ3X0YROTuPttdeGlg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0284935,
+                    59.31294309999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ling Long",
+                "category": "Chinese",
+                "id": "ChIJK2uKYlmdX0YRQAE4NCOr9GI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0751366,
+                    59.33469249999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Surfers",
+                "category": "Chinese",
+                "id": "ChIJS8wZs0KdX0YR9BHvnXmqJ04"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0713766,
+                    59.33576909999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Restaurant China (Skanstull & Fridhemsplan)",
+                "category": "Chinese",
+                "id": "ChIJf-CplnqdX0YRfPuiXQ02jjk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0284684,
+                    59.33546089999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lilla Kina",
+                "category": "Chinese",
+                "id": "ChIJ9540snCdX0YRAICwR1eOVjY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0386751,
+                    59.34349719999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eat East",
+                "category": "Chinese",
+                "id": "ChIJFxnTsmOdX0YRrdcINxlsl2Y"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0470912,
+                    59.3324674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "R Asia",
+                "category": "Chinese",
+                "id": "ChIJAQAArOqdX0YRRIgIFRWmzak"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.99821,
+                    59.36091709999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lao Lao",
+                "category": "Chinese",
+                "id": "ChIJ42BKk2R3X0YRY2-_MkD1-2I"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0540684,
+                    59.3177013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Xiang Yue",
+                "category": "Chinese",
+                "id": "ChIJr-IkVEGdX0YRq8tvpikFHxk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0786152,
+                    59.34310229999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Panda Dumplings",
+                "category": "Chinese",
+                "id": "ChIJNV3_44R3X0YRIhhwlCkXhTQ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0676227,
+                    59.31385709999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hemma hos Dong",
+                "category": "Chinese",
+                "id": "ChIJp_K1VsmdX0YRHbozRyOhG4o"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0330104,
+                    59.3423554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Su Tea & Dim Sum",
+                "category": "Chinese",
+                "id": "ChIJU6NbWlydX0YRVRQg9U68CMo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0695728,
+                    59.33460729999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shogun",
+                "category": "Chinese",
+                "id": "ChIJac5yrON3X0YR_1_Im5cPQdc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.061518,
+                    59.33643590000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fang Yuan Shi Wu",
+                "category": "Chinese",
+                "id": "ChIJu-AYQPh3X0YR1bb2eJ4zMz8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0822054,
+                    59.3102882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ingers Kitchen",
+                "category": "Chinese",
+                "id": "ChIJfU2EQF2dX0YRtRDwk5RlQDY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0669495,
+                    59.337262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sibiriens Sinokök",
+                "category": "Chinese",
+                "id": "ChIJy4CFRGydX0YRZLONBW0sKaQ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0586182,
+                    59.3475555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Xi’an-köket",
+                "category": "Chinese",
+                "id": "ChIJgzmlTHCdX0YRzTpxCQo48p8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9943654,
+                    59.30245189999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jappi",
+                "category": "Chinese",
+                "id": "ChIJVajoXGadX0YRLgbXv5_rEhM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0575081,
+                    59.33762460000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Vecchia Signora",
+                "category": "Italian",
+                "id": "ChIJOc-pWvh3X0YROvb-j3tA_2A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0848354,
+                    59.31444699999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Taverna Brillo",
+                "category": "Italian",
+                "id": "ChIJf822pVydX0YRLc9xLm-zPxs"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0736079,
+                    59.33675559999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eataly",
+                "category": "Italian",
+                "id": "ChIJK-_hflydX0YRgViTdRud0vc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0726818,
+                    59.3345479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "L'Avventura",
+                "category": "Italian",
+                "id": "ChIJxesJ9m6dX0YRcfB1yHkrSF4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0545267,
+                    59.3444145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Deli Di Luca",
+                "category": "Italian",
+                "id": "ChIJMQi0Afl3X0YRbq3eJsYmWjM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0840522,
+                    59.3154051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Ragazza",
+                "category": "Italian",
+                "id": "ChIJPXzt9wB3X0YR2PAB64uOHq8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0685414,
+                    59.32457470000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trattoria Grazie",
+                "category": "Italian",
+                "id": "ChIJ9WlI_zF2X0YRbgF3pHJd_M4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0897016,
+                    59.3028954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Il Tempo",
+                "category": "Italian",
+                "id": "ChIJH5OYzPp3X0YRY-RDSz5wYVk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0711213,
+                    59.316463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Capannone",
+                "category": "Italian",
+                "id": "ChIJ8SUZSrOdX0YR6fV9RAjNnqM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0617122,
+                    59.3447636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ricordi",
+                "category": "Italian",
+                "id": "ChIJV-F23oidX0YR5oBqUqrmyqY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0720617,
+                    59.33242259999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Perla",
+                "category": "Italian",
+                "id": "ChIJN0Vo2P53X0YRM_6CD3MSzC0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0696062,
+                    59.3133551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Italienskan",
+                "category": "Italian",
+                "id": "ChIJgUG5gtWdX0YRPcqsNkVkTEc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0635345,
+                    59.33476179999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hosteria Tre Santi",
+                "category": "Italian",
+                "id": "ChIJm3jtI_F3X0YRgnNvKz8-KMs"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0736147,
+                    59.31024720000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Spesso",
+                "category": "Italian",
+                "id": "ChIJUSvGB2KdX0YRQ8sR3lvwQD8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0664522,
+                    59.3334177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ciccios",
+                "category": "Italian",
+                "id": "ChIJATkVGVudX0YR8LcWPWBXFow"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0775866,
+                    59.3351899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gazza",
+                "category": "Italian",
+                "id": "ChIJpRxH4jZ3X0YRaDDyzPaxXWc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0597207,
+                    59.31865010000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Olli",
+                "category": "Italian",
+                "id": "ChIJbdyEALGdX0YRD7_wsuGgvuM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0669841,
+                    59.3344879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Neta",
+                "category": "Mexican",
+                "id": "ChIJh3BO-WadX0YR_DpmNWuV5Lo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0582092,
+                    59.33663360000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tacy",
+                "category": "Mexican",
+                "id": "ChIJNVEgrgh3X0YRWXXZ1BlUEQE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0797131,
+                    59.31216389999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamarindo",
+                "category": "Mexican",
+                "id": "ChIJD8MDkkA5no8Rk_jBLF6fGLs"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.84115249999999,
+                    10.2975721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Calexico's",
+                "category": "Mexican",
+                "id": "ChIJBUFiz8V3X0YRWVZZqYEg_hQ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0319716,
+                    59.314603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Olita Pop Up",
+                "category": "Mexican",
+                "id": "ChIJu49iChN3X0YRSa7o6K4UDTk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0843813,
+                    59.31302969999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cocito",
+                "category": "Mexican",
+                "id": "ChIJHwKB7VydX0YRCibxkiOvfbg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0522791,
+                    59.34335979999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Good Gringo",
+                "category": "Mexican",
+                "id": "ChIJ39g0_2KdX0YRSD8yA0mTmkM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0452338,
+                    59.33235889999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Border",
+                "category": "Mexican",
+                "id": "ChIJWyzhYdJ3X0YR22PXG9NfXB0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0406213,
+                    59.3294186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chelas",
+                "category": "Mexican",
+                "id": "ChIJF2VYXGF3X0YRVwsTGczky34"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0316295,
+                    59.31777390000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Xulo",
+                "category": "Mexican",
+                "id": "ChIJhXjo5t2dX0YRCUKHzB81c-I"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0617236,
+                    59.33936139999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Industrigatan 2",
+                "category": "Mexican",
+                "id": "ChIJKwC3wH6dX0YRLz_BUxS3JSQ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0316133,
+                    59.33657859999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tres",
+                "category": "Mexican",
+                "id": "ChIJvRN3lc-dX0YRyINOBMjcj4Y"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.064763,
+                    59.331722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cabal",
+                "category": "Mexican",
+                "id": "ChIJ-YgG0QqeX0YRZB6Z6bgUYuw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9574856,
+                    59.36553840000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Skogshyddans Dirty Taco",
+                "category": "Mexican",
+                "id": "ChIJCezLlid3X0YR-O1j6Dfi3FM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0869544,
+                    59.3153848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eatnam",
+                "category": "Vietnamese",
+                "id": "ChIJba_u_W-dX0YRnH8aqzIuVlw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0472385,
+                    59.3417723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nem Nem Quan",
+                "category": "Vietnamese",
+                "id": "ChIJvzsKOPB3X0YRR5hoWiwaD6U"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0691396,
+                    59.31219729999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Minh Mat",
+                "category": "Vietnamese",
+                "id": "ChIJz57KinqdX0YRGJEs902mn-U"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0414934,
+                    59.3407048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bun Bo Hue",
+                "category": "Vietnamese",
+                "id": "ChIJv_Jzy3adX0YRyqwAEFbzt5A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0403912,
+                    59.34648559999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saigon Baguette",
+                "category": "Vietnamese",
+                "id": "ChIJB1gNzGCdX0YRbcjEIweaOMc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0584776,
+                    59.3335266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ông",
+                "category": "Vietnamese",
+                "id": "ChIJ73RTKmF5X0YRA2bTAeYDN1Q"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0959073,
+                    59.289767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pho & Bun",
+                "category": "Vietnamese",
+                "id": "ChIJ0wpyoCJ7X0YRYmGgXX_LNhI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1345496,
+                    59.1851904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "An Nam",
+                "category": "Vietnamese",
+                "id": "ChIJe3cpDNGdX0YR7Zubmrwkz_A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0616591,
+                    59.33989649999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bun Bun",
+                "category": "Vietnamese",
+                "id": "ChIJLTetL7N3X0YRdJ-mFEQIa2g"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.058593,
+                    59.3113994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vietnam Deli",
+                "category": "Vietnamese",
+                "id": "ChIJ7c-0E1mdX0YRogAlKu_2ddg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0626557,
+                    59.33439720000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chioi",
+                "category": "Vietnamese",
+                "id": "ChIJe504tBKdX0YRYOswAmFTlDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0657783,
+                    59.3336401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Thi Thi Baguette",
+                "category": "Vietnamese",
+                "id": "ChIJQzrwuIN3X0YRhsVi5s1cCPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0618351,
+                    59.3149349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Viet Kitchen",
+                "category": "Vietnamese",
+                "id": "ChIJUf02DI13X0YRK3x5XzLvc3s"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.070485,
+                    59.3147755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allegrine",
+                "category": "French",
+                "id": "ChIJW9Ka1medX0YRF9l88Qzy3O4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0611439,
+                    59.3390345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pastis",
+                "category": "French",
+                "id": "ChIJKyHyl-J3X0YRVCrWIBYkJxA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0733332,
+                    59.325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brasserie Godot",
+                "category": "French",
+                "id": "ChIJY2_TuUSdX0YRuKLqbGsCdbA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0775816,
+                    59.3376923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Colline",
+                "category": "French",
+                "id": "ChIJcUkV3_p3X0YRqiW2oGcITY8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0720766,
+                    59.31687849999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brasserie Bobonne",
+                "category": "French",
+                "id": "ChIJJREqoVqdX0YRh0LYhJXtXh0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0833111,
+                    59.3349693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Café Facile",
+                "category": "French",
+                "id": "ChIJkbUJw26dX0YR7THPm5-Bt9g"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0570798,
+                    59.34389059999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Café Colette",
+                "category": "French",
+                "id": "ChIJRzJSF3qdX0YRkNC6yjjGoBM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0382434,
+                    59.3415135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bistrot Paname",
+                "category": "French",
+                "id": "ChIJl1ajSG6dX0YRr4-nGEBwQiM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0525056,
+                    59.3442161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Girafe",
+                "category": "French",
+                "id": "ChIJoecCC6SdX0YRoSHmOcnj4ZM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0407411,
+                    59.3332545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Främmat",
+                "category": "French",
+                "id": "ChIJF7bEDzGdX0YRp2Z0Oo0ac5I"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0452626,
+                    59.34224799999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brasserie Makalös",
+                "category": "French",
+                "id": "ChIJgw91ul6dX0YRsc18PmURz7s"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0692664,
+                    59.3313066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Café Cuvée",
+                "category": "French",
+                "id": "ChIJOYYCI1Z3X0YRqLxUBoVMqcA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0629246,
+                    59.3154303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mirabelle",
+                "category": "French",
+                "id": "ChIJES63PD6dX0YRO4LrojhHmSs"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0591784,
+                    59.34561780000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Campoloro",
+                "category": "French",
+                "id": "ChIJY9d6yG6dX0YRMubZE8ATSuY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0581719,
+                    59.3441049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Crêperie Fyra Knop",
+                "category": "French",
+                "id": "ChIJIxkxEPt3X0YRg58_9zquFoE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0723279,
+                    59.31723280000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Bergerie",
+                "category": "French",
+                "id": "ChIJBf9g_IadX0YRw0v9EYEOpbo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0094897,
+                    59.33811309999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chez Jolie",
+                "category": "French",
+                "id": "ChIJDWM9dQGdX0YR5mB01YHaxBE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0764335,
+                    59.333913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Arirang",
+                "category": "Korean",
+                "id": "ChIJGbWBlGidX0YRJzaVDQ1xUQA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0602083,
+                    59.34060830000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Koreana",
+                "category": "Korean",
+                "id": "ChIJ9Ywg0WidX0YRVP0utoDtjlw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0588837,
+                    59.3422869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kimchi",
+                "category": "Korean",
+                "id": "ChIJSfUm226dX0YR6kX5FD1Mzoc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0573411,
+                    59.34362329999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kimchistan",
+                "category": "Korean",
+                "id": "ChIJiR411xGdX0YR54mrRcJGigY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0603694,
+                    59.339775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Madam",
+                "category": "Korean",
+                "id": "ChIJ1YY3wbp3X0YRUteNfM1K2VU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0765164,
+                    59.31527200000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Seoul Kimchi",
+                "category": "Korean",
+                "id": "ChIJgV4s_oydX0YRafS3IxonCWU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0258636,
+                    59.3382069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Korea House",
+                "category": "Korean",
+                "id": "ChIJLXJztXOdX0YRIFRLsg5oRpE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0473267,
+                    59.34891990000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Monster Chicken",
+                "category": "Korean",
+                "id": "ChIJzYtihPZ3X0YRwFf8OepvrnM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0776532,
+                    59.3076841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Moldau",
+                "category": "Eastern/Central European",
+                "id": "ChIJWW4hlcV3X0YRkl49AOKbpx8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.030043,
+                    59.3156584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Soldaten Svejk",
+                "category": "Eastern/Central European",
+                "id": "ChIJG7iuFvp3X0YRiPaEGKNO8e8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0766874,
+                    59.31451490000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bar Central",
+                "category": "Eastern/Central European",
+                "id": "ChIJ31kGK2GdX0YRORSmymyl2XM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0566457,
+                    59.3339096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Café Eurobar",
+                "category": "Eastern/Central European",
+                "id": "ChIJbZrX_PZ3X0YRlvTRl8Pc04Q"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0789741,
+                    59.30989390000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Schnitzelei",
+                "category": "Eastern/Central European",
+                "id": "ChIJywdI5etRqEcRUVD-ycuGL6M"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3878853,
+                    52.5285831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "85 Kvadrat Tapas",
+                "category": "Eastern/Central European",
+                "id": "ChIJJwXw9Nd3X0YReVBTO-ji8JQ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0377523,
+                    59.32946579999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Liebling",
+                "category": "Eastern/Central European",
+                "id": "ChIJnRTzutt3X0YRKyPdmLopwkI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0602288,
+                    59.31748320000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gamla Stans Lykta",
+                "category": "Eastern/Central European",
+                "id": "ChIJo1z9n-J3X0YRBczAGQWrHCI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0738821,
+                    59.325651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sekt",
+                "category": "Eastern/Central European",
+                "id": "ChIJJZkSxvZ3X0YRwZLWiYXPpE8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0761074,
+                    59.3092796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Russian House",
+                "category": "Eastern/Central European",
+                "id": "ChIJVRwzddGCX0YRCrCNGkyJXB0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1326718,
+                    59.3560785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Balkanica",
+                "category": "Eastern/Central European",
+                "id": "ChIJW2bFN5WfX0YRONf1JKoZpW4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.837793,
+                    59.3621292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mozarteum",
+                "category": "Eastern/Central European",
+                "id": "ChIJJT9LN2KdX0YRYqovfXR8qg4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0482618,
+                    59.3317472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lilla Prag",
+                "category": "Eastern/Central European",
+                "id": "ChIJz-YfDG6dX0YR4facHx93Vw8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0524842,
+                    59.3460981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Balkan Wine & Meze",
+                "category": "Eastern/Central European",
+                "id": "ChIJAbvvVwF3X0YREMRzIes6V5c"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0330455,
+                    59.3150485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stim",
+                "category": "Seafood",
+                "id": "ChIJ8yeWHsN3X0YR5NFL2-PWlBk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.044311,
+                    59.3164008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Räkan",
+                "category": "Seafood",
+                "id": "ChIJfZFpNDpHX0YRbHgg_3-310U"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5516866,
+                    58.89391289999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "B.A.R",
+                "category": "Seafood",
+                "id": "ChIJBQazbmCdX0YRRo4AKDBdI0Q"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0589524,
+                    59.3299384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wasahof",
+                "category": "Seafood",
+                "id": "ChIJ16ZhqXqdX0YR1S5KnAqipw4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0463903,
+                    59.3411735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Musslan",
+                "category": "Seafood",
+                "id": "ChIJ16ZhqXqdX0YRMmiTMolcJio"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0464867,
+                    59.34130139999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mister French",
+                "category": "Seafood",
+                "id": "ChIJ_auYqeJ3X0YRSnqcMNPPluk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0758216,
+                    59.3241222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Elefantpojken",
+                "category": "Thai",
+                "id": "ChIJlVZJzfd3X0YRjxkEREyIrwE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.083625,
+                    59.3094488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orkidé",
+                "category": "Thai",
+                "id": "ChIJBdMrO855X0YRsj5P9c18Gis"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1146254,
+                    59.3026421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Itamae Thai Style",
+                "category": "Thai",
+                "id": "ChIJTWU1vG-dX0YRIGXgN6uv0IM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0514712,
+                    59.3421709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hökis Thai",
+                "category": "Thai",
+                "id": "ChIJh96HBsJ5X0YR_o-cS5x6yRY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0742498,
+                    59.2544847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Thongwiset",
+                "category": "Thai",
+                "id": "ChIJn078qsJ3X0YRhQ6rRpRyW2E"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.049353,
+                    59.3171015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pats Place",
+                "category": "Thai",
+                "id": "ChIJL2AVdgJ4X0YRfJ9aX3_iu8I"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0895592,
+                    59.3154944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Flippin’ Burgers",
+                "category": "Burgers",
+                "id": "ChIJydA5Sn-dX0YRVDEhiha9wjU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0508108,
+                    59.34064479999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Franky’s",
+                "category": "Burgers",
+                "id": "ChIJxesJ9m6dX0YREGjnk-tHr8U"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.060533,
+                    59.3398088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bastard Burgers",
+                "category": "Burgers",
+                "id": "ChIJB_r3Fh2dX0YRxaFEC9bX-MA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0669031,
+                    59.3315533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bun Meat Bun",
+                "category": "Burgers",
+                "id": "ChIJ_5QziUGdX0YR4pM_9DOdB6E"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.062297,
+                    59.33192409999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Miss Behave Bar",
+                "category": "Burgers",
+                "id": "ChIJORzGLv13X0YRsbOPx3TfSoo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0755082,
+                    59.3233619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Babas Burgers",
+                "category": "Burgers",
+                "id": "ChIJ_54czFydX0YRT4n-rdxmAgU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9779472,
+                    59.36157490000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barrels and burgers",
+                "category": "Burgers",
+                "id": "ChIJAQAADON3X0YRhn64TdpDz2U"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.06842,
+                    59.3246547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lilys Burgers",
+                "category": "Burgers",
+                "id": "ChIJdUmbefd3X0YRDWW8SC1YQgw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0813303,
+                    59.3120936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brödernas",
+                "category": "Burgers",
+                "id": "ChIJa0hRlEWdX0YRcZZa7iSy5Cg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.062371,
+                    59.3326709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Funky Chicken Food truck",
+                "category": "Burgers",
+                "id": "ChIJrcLYrCGDX0YRQUqRE6EC8bY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.161141,
+                    59.31654140000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Krubb",
+                "category": "Burgers",
+                "id": "ChIJzZp8Bu13X0YR2OgzuWhNvXo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.995297,
+                    59.2986188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Svenska Hamburgerköket",
+                "category": "Burgers",
+                "id": "ChIJRQ9PCrJ3X0YRWXHIBbdkFIY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0039352,
+                    59.3001321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BC Burgers",
+                "category": "Burgers",
+                "id": "ChIJuUQLgn6dX0YRwKYDAKeNp2I"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0647211,
+                    59.33067269999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lewinskys burger",
+                "category": "Burgers",
+                "id": "ChIJtcsgcXmdX0YRE1kRiK8JL50"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0339613,
+                    59.3398051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Prime Burger",
+                "category": "Burgers",
+                "id": "ChIJuZOyoGedX0YRIJYIZ1uxXac"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.061111,
+                    59.3363889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BAP",
+                "category": "Burgers",
+                "id": "ChIJ5cMESkWdX0YR_bcdM9wp2Wc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0822527,
+                    59.33671219999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brisket & Friends",
+                "category": "BBQ/Steak",
+                "id": "ChIJEzkcuVidX0YRPphEUqLz2mw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.054133,
+                    59.3368002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gute",
+                "category": "BBQ/Steak",
+                "id": "ChIJsea8G76dX0YRJasevz7VCoA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0694378,
+                    59.3368091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Det Arroganta Svinet",
+                "category": "BBQ/Steak",
+                "id": "ChIJaToSlFx7X0YRg1ctIzSCee4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1123735,
+                    59.1489112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Svartengrens",
+                "category": "BBQ/Steak",
+                "id": "ChIJSy-mHmydX0YRtq74szDmhJc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0590147,
+                    59.3458695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AG",
+                "category": "BBQ/Steak",
+                "id": "ChIJc14WR3ydX0YR9ZLvVP-QfrY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.034825,
+                    59.335247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Austin Food Works",
+                "category": "BBQ/Steak",
+                "id": "ChIJ88F90XOdX0YRoiT7-uo1tOM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0462354,
+                    59.3479257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Misshumasshu",
+                "category": "Asian Fusion",
+                "id": "ChIJJ5UKU9edX0YR-Y9I5eJwonM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0739956,
+                    59.3338012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Farang",
+                "category": "Asian Fusion",
+                "id": "ChIJG2kmVmidX0YRSNg4ivFMQ7w"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0625761,
+                    59.3417025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wäng",
+                "category": "Asian Fusion",
+                "id": "ChIJbUBEuGidX0YRmvzDu1KTxSo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0585903,
+                    59.3411468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zinnia",
+                "category": "Asian Fusion",
+                "id": "ChIJFbS8HrN3X0YRC33zTZP0gVE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0713551,
+                    59.31786870000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Liberdade",
+                "category": "Asian Fusion",
+                "id": "ChIJCzJJeFV3X0YRA0DOTcxR414"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.077518,
+                    59.31208309999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Asian Post Office",
+                "category": "Asian Fusion",
+                "id": "ChIJEVO2Gl2dX0YRUDEsV8Gquv8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0677524,
+                    59.3361749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jebena",
+                "category": "East African",
+                "id": "ChIJldduBGKdX0YRdpU6xHmDVKE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0473991,
+                    59.3294986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gojo",
+                "category": "East African",
+                "id": "ChIJBexXYB14X0YRmp-54H_HupE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0860833,
+                    59.3101718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Abyssinia",
+                "category": "East African",
+                "id": "ChIJkYwvg3GdX0YRFJ13A2QV7Y4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0377181,
+                    59.3427623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ethiostar",
+                "category": "East African",
+                "id": "ChIJAQAAHWadX0YRpPKmKdXNF7I"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0570436,
+                    59.3408981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lalibela",
+                "category": "East African",
+                "id": "ChIJAy1Pge4-QRYRYkuugucUdPI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.0476298,
+                    12.0308987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dahlak",
+                "category": "East African",
+                "id": "ChIJl_qDhyV4X0YRQyWuBaAAzm8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0837766,
+                    59.2881713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barwaaqo",
+                "category": "East African",
+                "id": "ChIJb_nfDtGfX0YR9qLsNcgXZqA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9315664,
+                    59.3877389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Peniel",
+                "category": "East African",
+                "id": "ChIJm5n2SnJxX0YRGb03d-9a_cw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9392172,
+                    59.2245816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bahlina",
+                "category": "East African",
+                "id": "ChIJUY-DSuedX0YRvg27_7jgKiM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9703406,
+                    59.36284879999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Arya",
+                "category": "Persian/Afghan",
+                "id": "ChIJAQAUhVydX0YRhjL71SROBBY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0724024,
+                    59.3354204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shahrzad",
+                "category": "Persian/Afghan",
+                "id": "ChIJU5GKPGidX0YRPMxXLYr6dlw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0653723,
+                    59.34048439999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Diwan",
+                "category": "Persian/Afghan",
+                "id": "ChIJTYN7K0WdX0YRYeo5DSMxpVo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0917407,
+                    59.34105629999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Coup d'Etat",
+                "category": "Persian/Afghan",
+                "id": "ChIJjUf571mdX0YRY3EeHMZbz8I"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0716066,
+                    59.3429775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vanak",
+                "category": "Persian/Afghan",
+                "id": "ChIJo5VLfB6fX0YRo4JSEVWeA7M"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9110446,
+                    59.4147335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zarthost",
+                "category": "Persian/Afghan",
+                "id": "ChIJqQrPLZSeX0YRxROI6Li2xhk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9626521,
+                    59.4097933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saaghi",
+                "category": "Persian/Afghan",
+                "id": "ChIJVSSIE8GdX0YRRXSgS0TLHbY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9952896,
+                    59.364705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bonab",
+                "category": "Persian/Afghan",
+                "id": "ChIJIfe05U6dX0YR4tU_EiUXwlk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9637696,
+                    59.3636093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bano",
+                "category": "Persian/Afghan",
+                "id": "ChIJMyKiZl2dX0YRhMjvDQMkoDk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0928372,
+                    59.30404179999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tbilisis hörna",
+                "category": "Georgian",
+                "id": "ChIJ923QPCJ4X0YR3CdwE8WrTJc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0882177,
+                    59.2980976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totemo Ramen",
+                "category": "Ramen",
+                "id": "ChIJSziZwnudX0YRww7Bp8HRMrg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0360413,
+                    59.3385318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ai Ramen",
+                "category": "Ramen",
+                "id": "ChIJnXPOhKSdX0YRRBq4j2R0sFk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0580843,
+                    59.3333767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ai Ramen Sofia",
+                "category": "Ramen",
+                "id": "ChIJYT_2hwJ4X0YR0i6gTi9Xogo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.089937,
+                    59.31451140000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Take Ramen",
+                "category": "Ramen",
+                "id": "ChIJW7JPhC2dX0YRHleS0zCT-uY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0406068,
+                    59.3405913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Raamen",
+                "category": "Ramen",
+                "id": "ChIJp16Hr_Z3X0YRtP4pIYlJS9Q"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0755093,
+                    59.3081963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tokyo Ramen",
+                "category": "Ramen",
+                "id": "ChIJlUfZEQqdX0YRgHKCd_red14"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0629681,
+                    59.3343689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kapibara Ramen",
+                "category": "Ramen",
+                "id": "ChIJ6z0dBv6dX0YRMmMi1ZGlOBo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0777591,
+                    59.334185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tonari Ramen",
+                "category": "Ramen",
+                "id": "ChIJOUnwhEl3X0YR2Z8GpeQmsEw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0777924,
+                    59.3148837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kumo Ramen",
+                "category": "Ramen",
+                "id": "ChIJEc-jFhedX0YRWv8ZLn2H__s"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0468498,
+                    59.34168039999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "N’YOI",
+                "category": "Ramen",
+                "id": "ChIJb-3E-f53X0YR5Yp_b4HFV7c"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0319184,
+                    59.31808710000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tengu",
+                "category": "Ramen",
+                "id": "ChIJyayDe1CdX0YRZJR1urIwGjs"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0694982,
+                    59.34343080000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sin Ramen",
+                "category": "Ramen",
+                "id": "ChIJQ7RcdTedX0YRcYAEm_iQbaQ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0671302,
+                    59.3346241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shanti",
+                "category": "Indian",
+                "id": "ChIJk46xHvB3X0YRs64v2lleB4A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0679828,
+                    59.313247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Indian Garden",
+                "category": "Indian",
+                "id": "ChIJx7Fmvl6dX0YRHkYdlvMW8hs"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0680188,
+                    59.3310141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Holy Cow",
+                "category": "Indian",
+                "id": "ChIJ99ubGPJ3X0YRQG8nyNyHJs0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0662786,
+                    59.30838240000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pataka",
+                "category": "Indian",
+                "id": "ChIJKWqBRO2dX0YRMTuCyTK9tO4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0926249,
+                    59.34440049999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saravanaa Bhavan",
+                "category": "Indian",
+                "id": "ChIJu8HMQZmdX0YR-5GIpx9nD14"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0358151,
+                    59.3382162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The South Indian",
+                "category": "Indian",
+                "id": "ChIJPy78YA53X0YRlGNjiqIaHdc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0366958,
+                    59.3154219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lao Wai",
+                "category": "Vegetarian/Vegan",
+                "id": "ChIJoQvt1GidX0YRedUwdvkJL_w"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0564614,
+                    59.342118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mathias Dahlgren Rutabaga",
+                "category": "Vegetarian/Vegan",
+                "id": "ChIJYxBLuVmdX0YRTK1uc769YTo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.076204,
+                    59.3293375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Växthuset",
+                "category": "Vegetarian/Vegan",
+                "id": "ChIJTex4ofV3X0YRw57yN2DohVA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.078836,
+                    59.3044022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hermans",
+                "category": "Vegetarian/Vegan",
+                "id": "ChIJhcH3Ofl3X0YRspJafWpcGM4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0839872,
+                    59.3175886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chutney",
+                "category": "Vegetarian/Vegan",
+                "id": "ChIJM8n_yfB3X0YRq_87lsmFx1Q"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0764508,
+                    59.31207289999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kvarnen",
+                "category": "Swedish/Nordic",
+                "id": "ChIJa14naPp3X0YRmkZmDwg0-5s"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0741819,
+                    59.3148486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tranan",
+                "category": "Swedish/Nordic",
+                "id": "ChIJe-HG22-dX0YRulYI9y_psKA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0492139,
+                    59.3432167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pelikan",
+                "category": "Swedish/Nordic",
+                "id": "ChIJrSV1Pfd3X0YRxwhoxSQ-Cug"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0762459,
+                    59.3105949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Blå dörren",
+                "category": "Swedish/Nordic",
+                "id": "ChIJ6ZY7p-R3X0YRXcXS0vhGatM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0701656,
+                    59.3202379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tennstopet",
+                "category": "Swedish/Nordic",
+                "id": "ChIJj5MpCnCdX0YRQUxSg1X3F44"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0457699,
+                    59.3417683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Den Gyldene Freden",
+                "category": "Swedish/Nordic",
+                "id": "ChIJo2D60OJ3X0YRpSgBrukx24o"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.073786,
+                    59.32316749999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Meatballs",
+                "category": "Swedish/Nordic",
+                "id": "ChIJbYc9vPl3X0YR00NA50Rzmxw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0814491,
+                    59.3145789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wood",
+                "category": "Swedish/Nordic",
+                "id": "ChIJ0YGMa52dX0YRnNi0BPyO47o"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0624498,
+                    59.3326065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sturehof",
+                "category": "Swedish/Nordic",
+                "id": "ChIJjRRMnFydX0YR1B4u6G720yk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.073299,
+                    59.3358575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eriks Basar",
+                "category": "Swedish/Nordic",
+                "id": "ChIJE3yf5X-dX0YRIb_wP9AM7lU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0208502,
+                    59.3342531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tabberaset",
+                "category": "Swedish/Nordic",
+                "id": "ChIJb7uaYrV3X0YR4lWvArnze5Y"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0871035,
+                    59.3154663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sillkaféet",
+                "category": "Swedish/Nordic",
+                "id": "ChIJMwkVgtt3X0YRiwf_PWwsVlc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0691299,
+                    59.3233353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Slingerbulten",
+                "category": "Swedish/Nordic",
+                "id": "ChIJH28eReJ3X0YRw3-NsSo_ey4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0688856,
+                    59.32435630000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hantverket",
+                "category": "Swedish/Nordic",
+                "id": "ChIJqz85jUOdX0YRIgo1i08U5wI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0767585,
+                    59.34145780000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Knut",
+                "category": "Swedish/Nordic",
+                "id": "ChIJp9cZGmKdX0YRjT6rpP3zrR0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0528574,
+                    59.33815809999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Två små svin",
+                "category": "Swedish/Nordic",
+                "id": "ChIJeyACsZF3X0YRM2ZGE0RqMC0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0517454,
+                    59.2965741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Matrosen smørrebrød",
+                "category": "Swedish/Nordic",
+                "id": "ChIJMytysZV3X0YRJwNgcQUK0XA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0752821,
+                    59.3244945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zum Franziskaner",
+                "category": "Swedish/Nordic",
+                "id": "ChIJ4bW31Px3X0YRmOXh2tebxs4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.074093,
+                    59.3223353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Restaurang Prinsen",
+                "category": "Swedish/Nordic",
+                "id": "ChIJjSueX_l3X0YRUCBOFOOEdLo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0732944,
+                    59.33439169999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Järnvägsrestaurangen på Östra Station",
+                "category": "Swedish/Nordic",
+                "id": "ChIJB0ChemqdX0YRnju6l4udDRE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0713159,
+                    59.3460085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nybroe",
+                "category": "Swedish/Nordic",
+                "id": "ChIJ4UWCKnWeX0YRhZT2oI61UnQ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0778683,
+                    59.33590369999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Günthers",
+                "category": "Sausages",
+                "id": "ChIJF6pMM3idX0YRE0Be_oaUZ7c"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.032503,
+                    59.3425068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brunos korvbar",
+                "category": "Sausages",
+                "id": "ChIJDfSKwUSdX0YRdabkrL6nYnI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0797937,
+                    59.33806500000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Göstas Korvrestaurang",
+                "category": "Sausages",
+                "id": "ChIJDyj1vsF3X0YRf0oEA_evR6k"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0419287,
+                    59.3107942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Frantzén",
+                "category": "Fine Dining",
+                "id": "ChIJhwomM2edX0YR9gW2q53gJRg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0586124,
+                    59.3339101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aloë",
+                "category": "Fine Dining",
+                "id": "ChIJTd9AGwJ3X0YRugDia1Gerg0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9855496,
+                    59.2842478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ichi",
+                "category": "Fine Dining",
+                "id": "ChIJ-5dpymadX0YRD_6KmOHoGYU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0554293,
+                    59.3346226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agrikultur",
+                "category": "Fine Dining",
+                "id": "ChIJpbO8Lvh3X0YR-qDlv20g5f4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0833109,
+                    59.3128878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oaxen",
+                "category": "Fine Dining",
+                "id": "ChIJBz7hJkFCX0YROzC0Oj37GyI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1017094,
+                    59.3223377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Etoile",
+                "category": "Fine Dining",
+                "id": "ChIJgVLWIy2dX0YRwzH2Ot8s_KM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0439008,
+                    59.3494772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Portal",
+                "category": "Fine Dining",
+                "id": "ChIJVVXpr3udX0YR-qz-vKn0JmA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0389927,
+                    59.3389529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sensum",
+                "category": "Fine Dining",
+                "id": "ChIJEZoIGGSdX0YR1uOF3ZNj_yY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0523006,
+                    59.3361724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nook",
+                "category": "Fine Dining",
+                "id": "ChIJUXqZY_h3X0YRh0JMcEqvQYg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0589334,
+                    59.3110513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lilla Ego",
+                "category": "Fine Dining",
+                "id": "ChIJ3x_sRnCdX0YRp4dr2VnNLpU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0454351,
+                    59.34360960000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aira",
+                "category": "Fine Dining",
+                "id": "ChIJo-jR6FCDX0YRyX4XLbig0yI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.123695,
+                    59.3207981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ekstedts",
+                "category": "Fine Dining",
+                "id": "ChIJhThAV1udX0YRWy5QWVtNNWY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0749183,
+                    59.33678159999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brasserie Astoria",
+                "category": "Fine Dining",
+                "id": "ChIJ-cv0D02dX0YRAJuNYfD5OaQ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0773478,
+                    59.33485520000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nana Omakase",
+                "category": "Fine Dining",
+                "id": "ChIJQ_TIU_idX0YR2Qm7ZPMCmL4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0515979,
+                    59.33753410000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Prospero",
+                "category": "Fine Dining",
+                "id": "ChIJpWE9Re6dX0YRX3pdKOF2bQc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0590028,
+                    59.34712380000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Coco & Carmen",
+                "category": "Fine Dining",
+                "id": "ChIJsSUpj1GdX0YReKarvcjnbds"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0914078,
+                    59.33301710000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nour",
+                "category": "Fine Dining",
+                "id": "ChIJpWwPqfidX0YRhMopIamkCHY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0713766,
+                    59.33576909999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Adam/Albin",
+                "category": "Fine Dining",
+                "id": "ChIJKdaIv2mdX0YR9RuQJ2s4kME"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0661854,
+                    59.3429938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Amo falafel",
+                "category": "Middle Eastern",
+                "id": "ChIJ3xW5vid3X0YRnNjLX6ok8Ss"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0278192,
+                    59.2570472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Amida kolgrill",
+                "category": "Middle Eastern",
+                "id": "ChIJU_anGPp3X0YRTIbCK2z6-bA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0783635,
+                    59.31472669999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Palmyra kebab",
+                "category": "Middle Eastern",
+                "id": "ChIJbWLjp5F3X0YRtNx3JOxgZH0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0501333,
+                    59.2971149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "El Beik",
+                "category": "Middle Eastern",
+                "id": "ChIJ4zH4WxZ5X0YRG7PEkyyo0No"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.081763,
+                    59.25649589999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Burgerian Falafel",
+                "category": "Middle Eastern",
+                "id": "ChIJj078Rfp3X0YRdYm6q4kD694"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0761449,
+                    59.315631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Falloumi",
+                "category": "Middle Eastern",
+                "id": "ChIJzcfMj_Z3X0YRrDsuoRcvRko"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.077788,
+                    59.3081755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pita",
+                "category": "Middle Eastern",
+                "id": "ChIJf3B3flZ3X0YRL1iSGfrmJJk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0068945,
+                    59.30104999999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bitza",
+                "category": "Middle Eastern",
+                "id": "ChIJ6yusULp3X0YRM8zL5sZrT10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.032963,
+                    59.31443059999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zoro Kolgrill",
+                "category": "Middle Eastern",
+                "id": "ChIJNVXQT615X0YR7zHyEkhjMOE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.090062,
+                    59.3033698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Midan",
+                "category": "Middle Eastern",
+                "id": "ChIJUbHIrG-dX0YRpyxW45VcPLE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0531105,
+                    59.343584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mangal",
+                "category": "Middle Eastern",
+                "id": "ChIJnU16ol2dX0YR7jZOUzJdYZw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0580626,
+                    59.3309453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ta'ameya Falafel",
+                "category": "Middle Eastern",
+                "id": "ChIJXRw7Yb2dX0YRSQ88gU2Kuug"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0602788,
+                    59.3397549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Macchina",
+                "category": "Middle Eastern",
+                "id": "ChIJ-SQgXDF3X0YRVD6l1f0JjBI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0486549,
+                    59.2697247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Çok Döner",
+                "category": "Middle Eastern",
+                "id": "ChIJRVMRDYadX0YRZeONuI9X2Ik"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0075071,
+                    59.3404195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fanoos",
+                "category": "Middle Eastern",
+                "id": "ChIJywh7NCueX0YRBzS9KOtSHNc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8754546,
+                    59.3582765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Spinaci",
+                "category": "Middle Eastern",
+                "id": "ChIJl4JLDf5zX0YRmLjrQMjC-_k"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.876667,
+                    59.2532924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Restaurang Kurdistan",
+                "category": "Middle Eastern",
+                "id": "ChIJNzJoh_KdX0YRNytIiRjcUpo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9862662,
+                    59.34960359999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Reggev Hummus",
+                "category": "Middle Eastern",
+                "id": "ChIJ_YMtw2OdX0YRFF6bafq3d2Y"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0820252,
+                    59.3089694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Checha",
+                "category": "Latin/South American",
+                "id": "ChIJVRk9SPZ3X0YRSpEdip8Q4hM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0872848,
+                    59.3144773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maestra Vida",
+                "category": "Latin/South American",
+                "id": "ChIJl-NrIcV3X0YRLLTU3QXh9wQ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.034485,
+                    59.3181617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chicha 08",
+                "category": "Latin/South American",
+                "id": "ChIJ99ubGPJ3X0YRbxmDOgIupC4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0256945,
+                    59.306403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Canta Lola",
+                "category": "Latin/South American",
+                "id": "ChIJPfWvKxKdX0YRhUHz3tMjS2c"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0749753,
+                    59.33514399999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Supper",
+                "category": "Latin/South American",
+                "id": "ChIJnd6jFmadX0YRN16H2ZYV8AE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0747333,
+                    59.33655169999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Meat",
+                "category": "Latin/South American",
+                "id": "ChIJn2J27GCdX0YRCJPx5NWpmhY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0576539,
+                    59.3319613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aji y Ajo",
+                "category": "Latin/South American",
+                "id": "ChIJMUX6_cB5X0YRCCwsglUG7M0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0972916,
+                    59.3086655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Peppar",
+                "category": "Latin/South American",
+                "id": "ChIJSUGqTnqdX0YRtmIYl5vV4mg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0388669,
+                    59.34026540000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Yuc",
+                "category": "Latin/South American",
+                "id": "ChIJ-7nil2-dX0YRHMOSqw4KavM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0513167,
+                    59.34231969999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Indio Studios",
+                "category": "Latin/South American",
+                "id": "ChIJYW77wMV3X0YR5uTJtee1-fo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0305346,
+                    59.3152984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Café Dignity",
+                "category": "Latin/South American",
+                "id": "ChIJMd8uLYN3X0YRLWOB70Wjcw8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9687066,
+                    59.33515480000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kaffe Express Colombia",
+                "category": "Latin/South American",
+                "id": "ChIJr0uxA8F5X0YRrH5Wd3cahO4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0814531,
+                    59.2566317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SantaSalsa",
+                "category": "Latin/South American",
+                "id": "ChIJKVDcEViDX0YRb6EpT0XFj_8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.119303,
+                    59.3429446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kamuchas,",
+                "category": "Latin/South American",
+                "id": "ChIJD3YYkUV3X0YR6ejtEHvrXvo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0142182,
+                    59.2621095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "K25",
+                "category": "Food court",
+                "id": "ChIJizx2Bl2dX0YR_p7fUA7zm1o"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0673372,
+                    59.3357364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Teatern Ringen",
+                "category": "Food court",
+                "id": "ChIJiy9VufZ3X0YRjP5B9jJq5U0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0758254,
+                    59.3083038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hötorgshallen",
+                "category": "Food court",
+                "id": "ChIJt-rFEV-dX0YR8pASKtKXAgg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0627779,
+                    59.3341667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Östermalmshallen",
+                "category": "Food court",
+                "id": "ChIJOWEJJFudX0YRWjW0uiJOeD0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0776888,
+                    59.3359544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Söderhallarna",
+                "category": "Food court",
+                "id": "ChIJH3s0mfp3X0YRxLjVXd-8Il4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0708423,
+                    59.3144998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kungshallen",
+                "category": "Food court",
+                "id": "ChIJLZGRZGedX0YRZgOjk1DcKwU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0621624,
+                    59.3353778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NK Saluhall",
+                "category": "Food court",
+                "id": "ChIJUfytGVydX0YRXtBjzpi5edA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0689583,
+                    59.33291209999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Greasy Spoon",
+                "category": "Brunch",
+                "id": "ChIJu_6IT26dX0YRhAcptCNJJMI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0529242,
+                    59.3443115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STHLM Brunch Club",
+                "category": "Brunch",
+                "id": "ChIJLRt8b3NzX0YR58AtbJJuBbo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0482894,
+                    59.3392287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Berns Asiatiska",
+                "category": "Brunch",
+                "id": "ChIJ-3FB7FudX0YRr90pQazajiM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0735199,
+                    59.33215999999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rival",
+                "category": "Brunch",
+                "id": "ChIJmyzqNeR3X0YRfhATfm0KISQ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0637996,
+                    59.3181838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trattorian",
+                "category": "Brunch",
+                "id": "ChIJ5Wx0GNl3X0YR9NlpDjxVxkc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.043523,
+                    59.32646829999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cykelcafé Le Mond",
+                "category": "Brunch",
+                "id": "ChIJXSCuI_p3X0YRgX1NRceeghA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0799249,
+                    59.3144589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kung Carls Bakficka",
+                "category": "Brunch",
+                "id": "ChIJreQ66lydX0YR0CGv5DpvVFE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0711765,
+                    59.33652110000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gast",
+                "category": "Coffee",
+                "id": "ChIJ2-JnAWadX0YR-aBRIe13v54"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0566768,
+                    59.33974920000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mellqvists",
+                "category": "Coffee",
+                "id": "ChIJ89mS1XudX0YR8-OM29Zo3jk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0356529,
+                    59.3397845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kaffe",
+                "category": "Coffee",
+                "id": "ChIJQxZke2CdX0YR1_dWkvdh5H8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.05919,
+                    59.32942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Drop Coffee",
+                "category": "Coffee",
+                "id": "ChIJ7QBKvuV3X0YRHP5IH4gh4jw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.062788,
+                    59.31691720000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Johan & Nyström",
+                "category": "Coffee",
+                "id": "ChIJr0sknOV3X0YRSIe2KVTV05Q"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0640546,
+                    59.31633739999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sosta",
+                "category": "Coffee",
+                "id": "ChIJk4MCvGidX0YRh92fmVUlg5I"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0588699,
+                    59.3408382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Non Solo Bar",
+                "category": "Coffee",
+                "id": "ChIJ89mS1XudX0YRDu0LJidalBg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0355333,
+                    59.3398046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Savant",
+                "category": "Coffee",
+                "id": "ChIJbyASXBSdX0YR-4Io0DfnxEA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0633862,
+                    59.3405558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kafé Orion",
+                "category": "Coffee",
+                "id": "ChIJcyeeyW-dX0YRrod1mQM57Dw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0507896,
+                    59.3433459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Café Frankfurt",
+                "category": "Coffee",
+                "id": "ChIJueyORGKdX0YR0vCkSLPakT0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0464704,
+                    59.3314976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Poli",
+                "category": "Coffee",
+                "id": "ChIJJ0wBdX6dX0YRDJyryyWI45g"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0307352,
+                    59.33350549999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lykke",
+                "category": "Coffee",
+                "id": "ChIJB-rEmDKdX0YRCwBRX1kXmzU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0570601,
+                    59.3325796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BAK",
+                "category": "Coffee",
+                "id": "ChIJf-6KELl5X0YRSKJMAIG8rFU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0955151,
+                    59.2591417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pascal",
+                "category": "Coffee",
+                "id": "ChIJy8mqQ_d3X0YRTsBt6D4db8E"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0519718,
+                    59.34210189999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Råbust",
+                "category": "Coffee",
+                "id": "ChIJk1_K0mqdX0YRBa16An-vhzk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0123307,
+                    59.3387474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Black Honey Coffee Roasters",
+                "category": "Coffee",
+                "id": "ChIJSfr239h3X0YRH3TsC4nWlJc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0466739,
+                    59.32864590000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A.B.Café",
+                "category": "Coffee",
+                "id": "ChIJkT_ha613X0YR3WlZptkDgAk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9986574,
+                    59.2996016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guld Kaffe & Kök",
+                "category": "Coffee",
+                "id": "ChIJNwg-aQidX0YRef6UzAB_fwI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0441263,
+                    59.33953380000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Corvina Enoteca",
+                "category": "Wine",
+                "id": "ChIJMS584uJ3X0YRBIEgnYZ5oZM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0711744,
+                    59.3231092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hornstulls Bodega",
+                "category": "Wine",
+                "id": "ChIJifRNWMR3X0YRciE1CsESUL8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0347985,
+                    59.3162112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gaston",
+                "category": "Wine",
+                "id": "ChIJJ5WTq-N3X0YRXo6u3swqfe8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0686511,
+                    59.3232288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grus Grus",
+                "category": "Wine",
+                "id": "ChIJBbjGoWydX0YR6aZPpXYsVag"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0491918,
+                    59.3431732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Folii",
+                "category": "Wine",
+                "id": "ChIJtfRgiQJ4X0YRuNNtD1LyZfs"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0904021,
+                    59.3140358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ambar",
+                "category": "Wine",
+                "id": "ChIJz1a1s3mdX0YRgJ7N--n-QPk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0321439,
+                    59.3414942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "E&G",
+                "category": "Wine",
+                "id": "ChIJKfcuXcKdX0YRnCo5MuV-c_I"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0607812,
+                    59.3479494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kungsholmens Vinbar",
+                "category": "Wine",
+                "id": "ChIJtbPR3hGdX0YRjitym5-TLqY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0289728,
+                    59.3350788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tyge & Sessil",
+                "category": "Wine",
+                "id": "ChIJEWBNUludX0YRBlDTfl_NNWA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0757514,
+                    59.33710660000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cork",
+                "category": "Wine",
+                "id": "ChIJYbm-kQiQREgR0MUxl6nHAAo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4756035,
+                    51.8985143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bar Oas",
+                "category": "Wine",
+                "id": "ChIJhyLBNsOdX0YR1QG9h1gmiMQ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0579938,
+                    59.33714219999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dryck",
+                "category": "Wine",
+                "id": "ChIJvWYtuuV3X0YRt8jxSE0PqZc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0635381,
+                    59.3174367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vina",
+                "category": "Wine",
+                "id": "ChIJ4yoNnPd3X0YRoX6nk4QZ0GA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0821021,
+                    59.3115509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cave Nizza",
+                "category": "Wine",
+                "id": "ChIJ5wiTgH93X0YRkfp9fPm8mJ8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0865521,
+                    59.31475929999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tocayo",
+                "category": "Wine",
+                "id": "ChIJR4JO45F3X0YRfW41ma6IKfc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0319725,
+                    59.31759919999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Enoteca La Mela",
+                "category": "Wine",
+                "id": "ChIJq3DOCel3X0YRP2F5ba_Qt-8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0327691,
+                    59.3150158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bar Ninja",
+                "category": "Wine",
+                "id": "ChIJ55bdqad3X0YReI-S764RwPk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0797677,
+                    59.3116043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Amfora",
+                "category": "Wine",
+                "id": "ChIJJ6mhjTedX0YRJNk5dvYzrys"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0653723,
+                    59.34048439999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nektar mat & vin",
+                "category": "Wine",
+                "id": "ChIJ4WbOCW2dX0YRLtWMFQEF4A4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.03386,
+                    59.3400928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bar Libertin",
+                "category": "Wine",
+                "id": "ChIJpWGpQit3X0YR6veEQFaYEmA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9976308,
+                    59.30615699999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brewdog",
+                "category": "Craft beer",
+                "id": "ChIJEQ0WGHydX0YRnax1GPNtGzo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0341887,
+                    59.33623050000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Akkurat",
+                "category": "Craft beer",
+                "id": "ChIJg8hO9cR3X0YRWLVKnRc3Aok"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0685442,
+                    59.31984120000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Man in the Moon",
+                "category": "Craft beer",
+                "id": "ChIJr4-XOGidX0YRzKr4KLrbD7M"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0642775,
+                    59.34078779999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Babajan",
+                "category": "Craft beer",
+                "id": "ChIJ4axbVRx4X0YRU8RwPbDcY4M"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0896821,
+                    59.30844529999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Katarina ölkafé",
+                "category": "Craft beer",
+                "id": "ChIJ3Y2ua_d3X0YRSw9RghMgJNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0793695,
+                    59.31164589999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nya Carnegiebryggeriet",
+                "category": "Craft beer",
+                "id": "ChIJ8wUaNBp4X0YRbGSJClNvgr8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0987487,
+                    59.30531089999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bierhaus",
+                "category": "Craft beer",
+                "id": "ChIJVVVViWidX0YRS-V2a3tsQ8s"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0619966,
+                    59.34030629999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Omnipollos hatt",
+                "category": "Craft beer",
+                "id": "ChIJowodOvt3X0YRjYM1JobP3Gg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0722738,
+                    59.3180572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lådan",
+                "category": "Craft beer",
+                "id": "ChIJhSjWj2idX0YRuBNFBG7hhiQ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0601711,
+                    59.34038919999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mikkeller",
+                "category": "Craft beer",
+                "id": "ChIJVVVlVludX0YR_HV_6Yc839w"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0754407,
+                    59.3372159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stigbergets fot",
+                "category": "Craft beer",
+                "id": "ChIJPcPBsJp3X0YR5EEpe9OyKNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0709512,
+                    59.3191221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oliver Twist",
+                "category": "Craft beer",
+                "id": "ChIJF4VOz-R3X0YRz6NqrPjre3k"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0698503,
+                    59.3183459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stockholm Brewing Taproom",
+                "category": "Craft beer",
+                "id": "ChIJUX08NfZ3X0YRcbIckPjOBzo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1195382,
+                    59.3427023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Omaka",
+                "category": "Craft beer",
+                "id": "ChIJBe-KuZWdX0YR7F9-Cpd4Dd4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0687704,
+                    59.3436768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Beer n’ Play",
+                "category": "Craft beer",
+                "id": "ChIJ_w70V7x3X0YRnap5AMrEojc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0414314,
+                    59.3164125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Omnipollo Kyrkan",
+                "category": "Craft beer",
+                "id": "ChIJf_68taKdX0YRWDik6wd6DDA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9663042,
+                    59.3636041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sorbon",
+                "category": "Craft beer",
+                "id": "ChIJYTnJFP51X0YR__gmF0HbXq0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9405152,
+                    59.3398951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kaja",
+                "category": "Craft beer",
+                "id": "ChIJm6yTcmV3X0YRkGyT4b1e9jk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0700531,
+                    59.3179221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tunnlandet",
+                "category": "Craft beer",
+                "id": "ChIJV8ftzv11X0YRoylXzeT0Gt4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9374462,
+                    59.33800339999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Erlands",
+                "category": "Cocktails",
+                "id": "ChIJA5yLXHqdX0YRUeQr7LsXAQo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0402675,
+                    59.3405172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pharmarium",
+                "category": "Cocktails",
+                "id": "ChIJvZ5qiuJ3X0YRuXir1p3HI7M"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0710531,
+                    59.3248939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tjoget",
+                "category": "Cocktails",
+                "id": "ChIJrZBLWMR3X0YR-K4amPgKyas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0349195,
+                    59.3161851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Reisen",
+                "category": "Cocktails",
+                "id": "ChIJCROhqeJ3X0YRB-bAbUDczMs"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0753632,
+                    59.3254337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tweed",
+                "category": "Cocktails",
+                "id": "ChIJ0dmQR-J3X0YR6VIEEHi_3bo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0678829,
+                    59.3243952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hommage",
+                "category": "Cocktails",
+                "id": "ChIJJWdNQOZ3X0YRmyVKXr9n7I4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0560189,
+                    59.3174082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Apropos",
+                "category": "Cocktails",
+                "id": "ChIJ1xSrsXudX0YRJH0PgzLRJuw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0386126,
+                    59.3390461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lucy's Flower Shop",
+                "category": "Cocktails",
+                "id": "ChIJG6VO5MGdX0YRwIGjU2hJNNc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0720358,
+                    59.33661559999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "JiuBar",
+                "category": "Cocktails",
+                "id": "ChIJX5pbJluMGGAR7TWvI02TBC8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7414626,
+                    35.7010113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gemma",
+                "category": "Cocktails",
+                "id": "ChIJh6-75hmdX0YRaj0z1BVP-Ug"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0770937,
+                    59.337024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bar Lilla Compagniet",
+                "category": "Cocktails",
+                "id": "ChIJeUAlqMZ3X0YRQsmpcCjYzR8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.074324,
+                    59.31888679999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Animo",
+                "category": "Cocktails",
+                "id": "ChIJGdV4b_KdX0YR3a1FEBECbYk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0644627,
+                    59.3429981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hernö Gin Bar",
+                "category": "Cocktails",
+                "id": "ChIJ06RlUoh3X0YREkdPG3Lgtac"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.070398,
+                    59.319736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carmen",
+                "category": "Dive bar",
+                "id": "ChIJQVyoQPp3X0YR8Wkr30pxiyU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0759323,
+                    59.3150802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lion Bar",
+                "category": "Dive bar",
+                "id": "ChIJR0uPnGidX0YRT7RD-y_cayI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0597901,
+                    59.3398946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Crazy Horse",
+                "category": "Dive bar",
+                "id": "ChIJuTyLzWedX0YR5JVwKa-5kkc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.060939,
+                    59.3386143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hirschenkeller",
+                "category": "Dive bar",
+                "id": "ChIJvXQlt2idX0YRPLYWAxjtgPs"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0580546,
+                    59.3409917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dovas/D-pub",
+                "category": "Dive bar",
+                "id": "ChIJSQ_SJnydX0YR5xyBjA1bwsQ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0331169,
+                    59.3355718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Far & Son",
+                "category": "Dive bar",
+                "id": "ChIJIwDvDH6dX0YRYSqe3fQJ974"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0298001,
+                    59.33331440000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Baras",
+                "category": "Dive bar",
+                "id": "ChIJCxrubfB3X0YRhnnOfxCTmy4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0704961,
+                    59.3133407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lilla Blecktornskällaren",
+                "category": "Dive bar",
+                "id": "ChIJD4A2NvZ3X0YRTFamAHArJDY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0824471,
+                    59.3090688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Diset",
+                "category": "Dive bar",
+                "id": "ChIJCXAzhE52X0YRWXZYcSdqKlk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9886281,
+                    59.3055378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Retro",
+                "category": "Dive bar",
+                "id": "ChIJsUWwHdZ3X0YR6ZCRoHRFtw8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0311616,
+                    59.3316282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Snövit",
+                "category": "Dive bar",
+                "id": "ChIJ2xrbNfZ3X0YRDBecFb3FAeo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0821656,
+                    59.309002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Harvest Home",
+                "category": "Dive bar",
+                "id": "ChIJjVKiavh3X0YRGt6gXt7JTX0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.083918,
+                    59.3134082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Älgen",
+                "category": "Dive bar",
+                "id": "ChIJFcscJbZ3X0YRaMqbns24iZ8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0337996,
+                    59.314874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ölstugan Tullen",
+                "category": "Dive bar",
+                "id": "ChIJTVgE44d3X0YRt7KZch650Sc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0428659,
+                    59.3291291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pinnochio",
+                "category": "Dive bar",
+                "id": "ChIJv-4_bZoC3UcRM2xKVCcJyQQ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.396558,
+                    50.6430505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ylias",
+                "category": "Dive bar",
+                "id": "ChIJg7AkwPp3X0YRVNynwNEWBr0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0715058,
+                    59.31563869999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trädgården",
+                "category": "Outdoor bar",
+                "id": "ChIJTex4ofV3X0YRq79nToaz98Q"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0778112,
+                    59.3047676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bleck",
+                "category": "Outdoor bar",
+                "id": "ChIJY5HRex14X0YRU7DLCjuFlsA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0860816,
+                    59.3094455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Boule & Berså",
+                "category": "Outdoor bar",
+                "id": "ChIJvzv1wwV4X0YRfrYXbNye6DM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1059322,
+                    59.3140334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Seaside Bar",
+                "category": "Outdoor bar",
+                "id": "ChIJ6bQJPOd3X0YR4f7bWiOrphI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.056485,
+                    59.321309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fållan",
+                "category": "Outdoor bar",
+                "id": "ChIJfd31UHx5X0YRPA_fQJR7Y40"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1180918,
+                    59.22825899999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kvarteret",
+                "category": "Outdoor bar",
+                "id": "ChIJLXYIO2GdX0YRKcBykS-wnHw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0548951,
+                    59.33334439999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eden",
+                "category": "Outdoor bar",
+                "id": "ChIJxTZRXFydX0YRBwy68tHJUM0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0699377,
+                    59.3346124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Plåtparken",
+                "category": "Outdoor bar",
+                "id": "ChIJPdNUyH53X0YRwafbkCIM-qo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0706095,
+                    59.3040069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Freddas",
+                "category": "Outdoor bar",
+                "id": "ChIJ-3cWkfR3X0YRsDiytZK-alY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0722421,
+                    59.30378019999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Klara Sjökafé",
+                "category": "Outdoor bar",
+                "id": "ChIJadSvU-J3X0YRDuMBWE_6qLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0690807,
+                    59.32358900000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stockholm under stjärnorna",
+                "category": "Rooftop bar",
+                "id": "ChIJlxRGo4SdX0YRzUhL-GeewiE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0669868,
+                    59.33073439999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Scandic Continental",
+                "category": "Rooftop bar",
+                "id": "ChIJdYTugWCdX0YR1GJZrkfXx94"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0595668,
+                    59.3310944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Urban Deli Sveavägen",
+                "category": "Rooftop bar",
+                "id": "ChIJpa88l2edX0YRMSg5kZC2DCk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0628338,
+                    59.3367113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tak",
+                "category": "Rooftop bar",
+                "id": "ChIJI_J76V6dX0YRP1N-_F032QA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0671208,
+                    59.33051119999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Scandic Sjöfartshotellet",
+                "category": "Rooftop bar",
+                "id": "ChIJEW_Le_t3X0YRStdY6V8dTyU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0758744,
+                    59.3187221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mosebacketerrassen",
+                "category": "Rooftop bar",
+                "id": "ChIJRZYadlZ3X0YREnx9XvTFzxk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0751684,
+                    59.318476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hornhuset",
+                "category": "Rooftop bar",
+                "id": "ChIJgRrZE8V3X0YRpPk3stNxvbA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0337446,
+                    59.3166568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Blique by Nobis",
+                "category": "Rooftop bar",
+                "id": "ChIJuxzKCMydX0YRhyyLKRBmlPc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0360878,
+                    59.34601139999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sjöstaden Skybar",
+                "category": "Rooftop bar",
+                "id": "ChIJvRvdXo15X0YRSmmLM3fE53o"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0830612,
+                    59.3012237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tetto",
+                "category": "Rooftop bar",
+                "id": "ChIJzQYW7BWdX0YRh-l7LWk67qQ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0664794,
+                    59.3333623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clarion Hotel Sign",
+                "category": "Rooftop bar",
+                "id": "ChIJc7gNTWGdX0YRKG-_8pWA0rM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0531934,
+                    59.33475759999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Le Hibou",
+                "category": "Rooftop bar",
+                "id": "ChIJEwLnEpudX0YR3ujcy06UuFY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0746518,
+                    59.33138899999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ljunggrens Terrass",
+                "category": "Rooftop bar",
+                "id": "ChIJbWqOGSZ2X0YR0Wd1KVQfi4I"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9976074,
+                    59.33174729999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Winery Rooftop Bar",
+                "category": "Rooftop bar",
+                "id": "ChIJezgr8bWdX0YRb-aFasY1kpQ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0123131,
+                    59.3775128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Naboterassen",
+                "category": "Rooftop bar",
+                "id": "ChIJacZM2N6dX0YRzjKsfKjBOP8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0674632,
+                    59.33321660000001
+                ]
+            }
+        }
+    ]
+}

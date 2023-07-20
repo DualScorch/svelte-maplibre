@@ -67,6 +67,8 @@
 
     dispatch(eventName, data);
   }
+
+  
 </script>
 
 <!-- svelte-ignore a11y-no-noninteractive-tabindex -->

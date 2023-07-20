@@ -1,0 +1,2949 @@
+[
+  {
+    "name": "Bistro Bananas",
+    "category": "Pizza",
+    "lng": 18.0752697,
+    "lat": 59.31179759999999,
+    "id": "ChIJCSFExvB3X0YRK-RXzK3XnNs"
+  },
+  {
+    "name": "800 grader",
+    "category": "Pizza",
+    "lng": 18.0406707,
+    "lat": 59.34219309999999,
+    "id": "ChIJmx9BdnqdX0YR2cwxvr1So4o"
+  },
+  {
+    "name": "Meno Male",
+    "category": "Pizza",
+    "lng": 18.0453186,
+    "lat": 59.3287934,
+    "id": "ChIJtXI1lth3X0YR138Xx06TjWc"
+  },
+  {
+    "name": "Babette",
+    "category": "Pizza",
+    "lng": 18.0615903,
+    "lat": 59.34488950000001,
+    "id": "ChIJH77VW2mdX0YRnFhzR0TCjH0"
+  },
+  {
+    "name": "Crispy Pizza Bistro",
+    "category": "Pizza",
+    "lng": 18.0496124,
+    "lat": 59.3412581,
+    "id": "ChIJx1AVi2-dX0YR4K3jiD5M_YY"
+  },
+  {
+    "name": "450 Gradi",
+    "category": "Pizza",
+    "lng": 18.1532322,
+    "lat": 59.34392049999999,
+    "id": "ChIJv8zFqFKCX0YRYWpMGAcLP8o"
+  },
+  {
+    "name": "Giretto",
+    "category": "Pizza",
+    "lng": 18.0701459,
+    "lat": 59.3186331,
+    "id": "ChIJw3HE_h6dX0YR6TWJe1NPeKQ"
+  },
+  {
+    "name": "Dirty Dough",
+    "category": "Pizza",
+    "lng": 18.0950138,
+    "lat": 59.2566009,
+    "id": "ChIJdebl4TB5X0YRlrwNS0GvGJE"
+  },
+  {
+    "name": "La Piccola Nonna",
+    "category": "Pizza",
+    "lng": 18.0742473,
+    "lat": 59.3103321,
+    "id": "ChIJKx9K3Fd3X0YRFmgPrgX_DFo"
+  },
+  {
+    "name": "Deglabbet",
+    "category": "Pizza",
+    "lng": 18.0537117,
+    "lat": 59.33723920000001,
+    "id": "ChIJZUaPoH6dX0YRISA6UUKNMqM"
+  },
+  {
+    "name": "Stålhammar pop-up pizza",
+    "category": "Pizza",
+    "lng": 18.0493934,
+    "lat": 59.31095449999999,
+    "id": "ChIJ0y0C8gx3X0YR7I1vwXvHlmI"
+  },
+  {
+    "name": "dell'Attore",
+    "category": "Pizza",
+    "lng": 18.0861846,
+    "lat": 59.3379359,
+    "id": "ChIJpfnHiE-dX0YRYNxhC2sxxvQ"
+  },
+  {
+    "name": "Brillo Pizza",
+    "category": "Pizza",
+    "lng": 18.0507896,
+    "lat": 59.3433459,
+    "id": "ChIJi_L7-vmdX0YRUSePqKHX7-w"
+  },
+  {
+    "name": "Savoj",
+    "category": "Pizza",
+    "lng": 18.0569135,
+    "lat": 59.3493043,
+    "id": "ChIJf2Ar1ZmdX0YRzTtpe6LqcM8"
+  },
+  {
+    "name": "Capri Due's Bakficka",
+    "category": "Pizza",
+    "lng": 18.0310226,
+    "lat": 59.34132760000001,
+    "id": "ChIJfeRAUnidX0YR-aZKQJNetjw"
+  },
+  {
+    "name": "Pazzi",
+    "category": "Pizza",
+    "lng": 18.0785826,
+    "lat": 59.3108802,
+    "id": "ChIJK3v3F_d3X0YRUCsyvo0x8eA"
+  },
+  {
+    "name": "Lilla Pixel",
+    "category": "Pizza",
+    "lng": 18.0050907,
+    "lat": 59.3517393,
+    "id": "ChIJHWcJPD2dX0YRs6OJkzQlXTw"
+  },
+  {
+    "name": "Bistro Leoparden",
+    "category": "Pizza",
+    "lng": 18.0608872,
+    "lat": 59.3399155,
+    "id": "ChIJw8gfCgCdX0YRKn83NCpvzpo"
+  },
+  {
+    "name": "Mogge Sushi",
+    "category": "Sushi/Japanese",
+    "lng": 18.0671818,
+    "lat": 59.3249775,
+    "id": "ChIJbb7RPOJ3X0YRcyzK89Zhjx0"
+  },
+  {
+    "name": "Sushi Sho",
+    "category": "Sushi/Japanese",
+    "lng": 18.0497953,
+    "lat": 59.3412164,
+    "id": "ChIJVVVV8m-dX0YRrWZ8HbLSOhM"
+  },
+  {
+    "name": "Sushi Oi",
+    "category": "Sushi/Japanese",
+    "lng": 18.0773724,
+    "lat": 59.3400758,
+    "id": "ChIJ9zslfkSdX0YRm8199OjaVVo"
+  },
+  {
+    "name": "Soyokafé",
+    "category": "Sushi/Japanese",
+    "lng": 18.0636727,
+    "lat": 59.3342434,
+    "id": "ChIJH9u1T6F5X0YRC3yAt1Za0w4"
+  },
+  {
+    "name": "Indio Kitchen",
+    "category": "Sushi/Japanese",
+    "lng": 18.0834093,
+    "lat": 59.31467769999999,
+    "id": "ChIJN3aSrfl3X0YRWomaqrYgsUY"
+  },
+  {
+    "name": "Hattori",
+    "category": "Sushi/Japanese",
+    "lng": 18.067316,
+    "lat": 59.33577219999999,
+    "id": "ChIJX1RDSTqdX0YR6iS2XtHna8g"
+  },
+  {
+    "name": "Susherian",
+    "category": "Sushi/Japanese",
+    "lng": 18.0772103,
+    "lat": 59.30882589999999,
+    "id": "ChIJmVFisdh3X0YR34xIbkDc75A"
+  },
+  {
+    "name": "Minako Sushi",
+    "category": "Sushi/Japanese",
+    "lng": 18.0485775,
+    "lat": 59.3410016,
+    "id": "ChIJFXknWWWdX0YRA3B4ZO8y0Wg"
+  },
+  {
+    "name": "Tokyo Diner",
+    "category": "Sushi/Japanese",
+    "lng": 18.0626557,
+    "lat": 59.33439720000001,
+    "id": "ChIJIRaD9l2dX0YRFzQo3E3_Cyw"
+  },
+  {
+    "name": "Black Milk Sushi",
+    "category": "Sushi/Japanese",
+    "lng": 18.0697198,
+    "lat": 59.3381453,
+    "id": "ChIJw7E6WA2dX0YRN_020tGbinI"
+  },
+  {
+    "name": "Dashi",
+    "category": "Sushi/Japanese",
+    "lng": 18.0659057,
+    "lat": 59.3426521,
+    "id": "ChIJPx3u7budX0YRB2JLoqpp-vQ"
+  },
+  {
+    "name": "Blue Light Yokohama",
+    "category": "Sushi/Japanese",
+    "lng": 18.0855244,
+    "lat": 59.3143555,
+    "id": "ChIJM3XHXPh3X0YRSbEwTDOha3s"
+  },
+  {
+    "name": "MamaWolf",
+    "category": "Sushi/Japanese",
+    "lng": 18.0599104,
+    "lat": 59.3177078,
+    "id": "ChIJ1SL7h-Z3X0YR1MNoG2kpiSI"
+  },
+  {
+    "name": "Saisho Sushi",
+    "category": "Sushi/Japanese",
+    "lng": 18.0072024,
+    "lat": 59.3322169,
+    "id": "ChIJzXenxMR3X0YRdoibZ-HovYU"
+  },
+  {
+    "name": "Cantina Raw",
+    "category": "Sushi/Japanese",
+    "lng": 17.8639743,
+    "lat": 59.4017142,
+    "id": "ChIJN71l2YefX0YRL-eqbbmrgxA"
+  },
+  {
+    "name": "Akki Sushi",
+    "category": "Sushi/Japanese",
+    "lng": 18.0339257,
+    "lat": 59.3166033,
+    "id": "ChIJDxPW_8R3X0YRuQTiyNw0_zU"
+  },
+  {
+    "name": "Barbro",
+    "category": "Sushi/Japanese",
+    "lng": 18.0332041,
+    "lat": 59.3143617,
+    "id": "ChIJ2W3NMcR3X0YR0df9CuhZpGI"
+  },
+  {
+    "name": "Washoku TOMO",
+    "category": "Sushi/Japanese",
+    "lng": 18.0598961,
+    "lat": 59.3187692,
+    "id": "ChIJL3sZi0N3X0YR4tpM_n1nhJg"
+  },
+  {
+    "name": "Peony",
+    "category": "Chinese",
+    "lng": 18.0788015,
+    "lat": 59.2962675,
+    "id": "ChIJ_TKExCB4X0YRSMYkp09WDhA"
+  },
+  {
+    "name": "Ho’s",
+    "category": "Chinese",
+    "lng": 18.0326231,
+    "lat": 59.31499839999999,
+    "id": "ChIJNSW6z8V3X0YRSE_vYuVT50s"
+  },
+  {
+    "name": "Formosa",
+    "category": "Chinese",
+    "lng": 18.0707424,
+    "lat": 59.323054,
+    "id": "ChIJ104zHeN3X0YRYawDS0VIYWE"
+  },
+  {
+    "name": "Chong Qing",
+    "category": "Chinese",
+    "lng": 18.0284935,
+    "lat": 59.31294309999999,
+    "id": "ChIJke-UasZ3X0YROTuPttdeGlg"
+  },
+  {
+    "name": "Ling Long",
+    "category": "Chinese",
+    "lng": 18.0751366,
+    "lat": 59.33469249999999,
+    "id": "ChIJK2uKYlmdX0YRQAE4NCOr9GI"
+  },
+  {
+    "name": "Surfers",
+    "category": "Chinese",
+    "lng": 18.0713766,
+    "lat": 59.33576909999999,
+    "id": "ChIJS8wZs0KdX0YR9BHvnXmqJ04"
+  },
+  {
+    "name": "Restaurant China (Skanstull & Fridhemsplan)",
+    "category": "Chinese",
+    "lng": 18.0284684,
+    "lat": 59.33546089999999,
+    "id": "ChIJf-CplnqdX0YRfPuiXQ02jjk"
+  },
+  {
+    "name": "Lilla Kina",
+    "category": "Chinese",
+    "lng": 18.0386751,
+    "lat": 59.34349719999999,
+    "id": "ChIJ9540snCdX0YRAICwR1eOVjY"
+  },
+  {
+    "name": "Eat East",
+    "category": "Chinese",
+    "lng": 18.0470912,
+    "lat": 59.3324674,
+    "id": "ChIJFxnTsmOdX0YRrdcINxlsl2Y"
+  },
+  {
+    "name": "R Asia",
+    "category": "Chinese",
+    "lng": 17.99821,
+    "lat": 59.36091709999999,
+    "id": "ChIJAQAArOqdX0YRRIgIFRWmzak"
+  },
+  {
+    "name": "Lao Lao",
+    "category": "Chinese",
+    "lng": 18.0540684,
+    "lat": 59.3177013,
+    "id": "ChIJ42BKk2R3X0YRY2-_MkD1-2I"
+  },
+  {
+    "name": "Xiang Yue",
+    "category": "Chinese",
+    "lng": 18.0786152,
+    "lat": 59.34310229999999,
+    "id": "ChIJr-IkVEGdX0YRq8tvpikFHxk"
+  },
+  {
+    "name": "Panda Dumplings",
+    "category": "Chinese",
+    "lng": 18.0676227,
+    "lat": 59.31385709999999,
+    "id": "ChIJNV3_44R3X0YRIhhwlCkXhTQ"
+  },
+  {
+    "name": "Hemma hos Dong",
+    "category": "Chinese",
+    "lng": 18.0330104,
+    "lat": 59.3423554,
+    "id": "ChIJp_K1VsmdX0YRHbozRyOhG4o"
+  },
+  {
+    "name": "Su Tea & Dim Sum",
+    "category": "Chinese",
+    "lng": 18.0695728,
+    "lat": 59.33460729999999,
+    "id": "ChIJU6NbWlydX0YRVRQg9U68CMo"
+  },
+  {
+    "name": "Shogun",
+    "category": "Chinese",
+    "lng": 18.061518,
+    "lat": 59.33643590000001,
+    "id": "ChIJac5yrON3X0YR_1_Im5cPQdc"
+  },
+  {
+    "name": "Fang Yuan Shi Wu",
+    "category": "Chinese",
+    "lng": 18.0822054,
+    "lat": 59.3102882,
+    "id": "ChIJu-AYQPh3X0YR1bb2eJ4zMz8"
+  },
+  {
+    "name": "Ingers Kitchen",
+    "category": "Chinese",
+    "lng": 18.0669495,
+    "lat": 59.337262,
+    "id": "ChIJfU2EQF2dX0YRtRDwk5RlQDY"
+  },
+  {
+    "name": "Sibiriens Sinokök",
+    "category": "Chinese",
+    "lng": 18.0586182,
+    "lat": 59.3475555,
+    "id": "ChIJy4CFRGydX0YRZLONBW0sKaQ"
+  },
+  {
+    "name": "Xi’an-köket",
+    "category": "Chinese",
+    "lng": 17.9943654,
+    "lat": 59.30245189999999,
+    "id": "ChIJgzmlTHCdX0YRzTpxCQo48p8"
+  },
+  {
+    "name": "Jappi",
+    "category": "Chinese",
+    "lng": 18.0575081,
+    "lat": 59.33762460000001,
+    "id": "ChIJVajoXGadX0YRLgbXv5_rEhM"
+  },
+  {
+    "name": "La Vecchia Signora",
+    "category": "Italian",
+    "lng": 18.0848354,
+    "lat": 59.31444699999999,
+    "id": "ChIJOc-pWvh3X0YROvb-j3tA_2A"
+  },
+  {
+    "name": "Taverna Brillo",
+    "category": "Italian",
+    "lng": 18.0736079,
+    "lat": 59.33675559999999,
+    "id": "ChIJf822pVydX0YRLc9xLm-zPxs"
+  },
+  {
+    "name": "Eataly",
+    "category": "Italian",
+    "lng": 18.0726818,
+    "lat": 59.3345479,
+    "id": "ChIJK-_hflydX0YRgViTdRud0vc"
+  },
+  {
+    "name": "L'Avventura",
+    "category": "Italian",
+    "lng": 18.0545267,
+    "lat": 59.3444145,
+    "id": "ChIJxesJ9m6dX0YRcfB1yHkrSF4"
+  },
+  {
+    "name": "Deli Di Luca",
+    "category": "Italian",
+    "lng": 18.0840522,
+    "lat": 59.3154051,
+    "id": "ChIJMQi0Afl3X0YRbq3eJsYmWjM"
+  },
+  {
+    "name": "La Ragazza",
+    "category": "Italian",
+    "lng": 18.0685414,
+    "lat": 59.32457470000001,
+    "id": "ChIJPXzt9wB3X0YR2PAB64uOHq8"
+  },
+  {
+    "name": "Trattoria Grazie",
+    "category": "Italian",
+    "lng": 18.0897016,
+    "lat": 59.3028954,
+    "id": "ChIJ9WlI_zF2X0YRbgF3pHJd_M4"
+  },
+  {
+    "name": "Il Tempo",
+    "category": "Italian",
+    "lng": 18.0711213,
+    "lat": 59.316463,
+    "id": "ChIJH5OYzPp3X0YRY-RDSz5wYVk"
+  },
+  {
+    "name": "Capannone",
+    "category": "Italian",
+    "lng": 18.0617122,
+    "lat": 59.3447636,
+    "id": "ChIJ8SUZSrOdX0YR6fV9RAjNnqM"
+  },
+  {
+    "name": "Ricordi",
+    "category": "Italian",
+    "lng": 18.0720617,
+    "lat": 59.33242259999999,
+    "id": "ChIJV-F23oidX0YR5oBqUqrmyqY"
+  },
+  {
+    "name": "La Perla",
+    "category": "Italian",
+    "lng": 18.0696062,
+    "lat": 59.3133551,
+    "id": "ChIJN0Vo2P53X0YRM_6CD3MSzC0"
+  },
+  {
+    "name": "Italienskan",
+    "category": "Italian",
+    "lng": 18.0635345,
+    "lat": 59.33476179999999,
+    "id": "ChIJgUG5gtWdX0YRPcqsNkVkTEc"
+  },
+  {
+    "name": "Hosteria Tre Santi",
+    "category": "Italian",
+    "lng": 18.0736147,
+    "lat": 59.31024720000001,
+    "id": "ChIJm3jtI_F3X0YRgnNvKz8-KMs"
+  },
+  {
+    "name": "Spesso",
+    "category": "Italian",
+    "lng": 18.0664522,
+    "lat": 59.3334177,
+    "id": "ChIJUSvGB2KdX0YRQ8sR3lvwQD8"
+  },
+  {
+    "name": "Ciccios",
+    "category": "Italian",
+    "lng": 18.0775866,
+    "lat": 59.3351899,
+    "id": "ChIJATkVGVudX0YR8LcWPWBXFow"
+  },
+  {
+    "name": "Gazza",
+    "category": "Italian",
+    "lng": 18.0597207,
+    "lat": 59.31865010000001,
+    "id": "ChIJpRxH4jZ3X0YRaDDyzPaxXWc"
+  },
+  {
+    "name": "Olli",
+    "category": "Italian",
+    "lng": 18.0669841,
+    "lat": 59.3344879,
+    "id": "ChIJbdyEALGdX0YRD7_wsuGgvuM"
+  },
+  {
+    "name": "La Neta",
+    "category": "Mexican",
+    "lng": 18.0582092,
+    "lat": 59.33663360000001,
+    "id": "ChIJh3BO-WadX0YR_DpmNWuV5Lo"
+  },
+  {
+    "name": "Tacy",
+    "category": "Mexican",
+    "lng": 18.0797131,
+    "lat": 59.31216389999999,
+    "id": "ChIJNVEgrgh3X0YRWXXZ1BlUEQE"
+  },
+  {
+    "name": "Tamarindo",
+    "category": "Mexican",
+    "lng": -85.84115249999999,
+    "lat": 10.2975721,
+    "id": "ChIJD8MDkkA5no8Rk_jBLF6fGLs"
+  },
+  {
+    "name": "Calexico's",
+    "category": "Mexican",
+    "lng": 18.0319716,
+    "lat": 59.314603,
+    "id": "ChIJBUFiz8V3X0YRWVZZqYEg_hQ"
+  },
+  {
+    "name": "La Olita Pop Up",
+    "category": "Mexican",
+    "lng": 18.0843813,
+    "lat": 59.31302969999999,
+    "id": "ChIJu49iChN3X0YRSa7o6K4UDTk"
+  },
+  {
+    "name": "Cocito",
+    "category": "Mexican",
+    "lng": 18.0522791,
+    "lat": 59.34335979999999,
+    "id": "ChIJHwKB7VydX0YRCibxkiOvfbg"
+  },
+  {
+    "name": "The Good Gringo",
+    "category": "Mexican",
+    "lng": 18.0452338,
+    "lat": 59.33235889999999,
+    "id": "ChIJ39g0_2KdX0YRSD8yA0mTmkM"
+  },
+  {
+    "name": "The Border",
+    "category": "Mexican",
+    "lng": 18.0406213,
+    "lat": 59.3294186,
+    "id": "ChIJWyzhYdJ3X0YR22PXG9NfXB0"
+  },
+  {
+    "name": "Chelas",
+    "category": "Mexican",
+    "lng": 18.0316295,
+    "lat": 59.31777390000001,
+    "id": "ChIJF2VYXGF3X0YRVwsTGczky34"
+  },
+  {
+    "name": "Xulo",
+    "category": "Mexican",
+    "lng": 18.0617236,
+    "lat": 59.33936139999999,
+    "id": "ChIJhXjo5t2dX0YRCUKHzB81c-I"
+  },
+  {
+    "name": "Industrigatan 2",
+    "category": "Mexican",
+    "lng": 18.0316133,
+    "lat": 59.33657859999999,
+    "id": "ChIJKwC3wH6dX0YRLz_BUxS3JSQ"
+  },
+  {
+    "name": "Tres",
+    "category": "Mexican",
+    "lng": 18.064763,
+    "lat": 59.331722,
+    "id": "ChIJvRN3lc-dX0YRyINOBMjcj4Y"
+  },
+  {
+    "name": "Cabal",
+    "category": "Mexican",
+    "lng": 17.9574856,
+    "lat": 59.36553840000001,
+    "id": "ChIJ-YgG0QqeX0YRZB6Z6bgUYuw"
+  },
+  {
+    "name": "Skogshyddans Dirty Taco",
+    "category": "Mexican",
+    "lng": 18.0869544,
+    "lat": 59.3153848,
+    "id": "ChIJCezLlid3X0YR-O1j6Dfi3FM"
+  },
+  {
+    "name": "Eatnam",
+    "category": "Vietnamese",
+    "lng": 18.0472385,
+    "lat": 59.3417723,
+    "id": "ChIJba_u_W-dX0YRnH8aqzIuVlw"
+  },
+  {
+    "name": "Nem Nem Quan",
+    "category": "Vietnamese",
+    "lng": 18.0691396,
+    "lat": 59.31219729999999,
+    "id": "ChIJvzsKOPB3X0YRR5hoWiwaD6U"
+  },
+  {
+    "name": "Minh Mat",
+    "category": "Vietnamese",
+    "lng": 18.0414934,
+    "lat": 59.3407048,
+    "id": "ChIJz57KinqdX0YRGJEs902mn-U"
+  },
+  {
+    "name": "Bun Bo Hue",
+    "category": "Vietnamese",
+    "lng": 18.0403912,
+    "lat": 59.34648559999999,
+    "id": "ChIJv_Jzy3adX0YRyqwAEFbzt5A"
+  },
+  {
+    "name": "Saigon Baguette",
+    "category": "Vietnamese",
+    "lng": 18.0584776,
+    "lat": 59.3335266,
+    "id": "ChIJB1gNzGCdX0YRbcjEIweaOMc"
+  },
+  {
+    "name": "Ông",
+    "category": "Vietnamese",
+    "lng": 18.0959073,
+    "lat": 59.289767,
+    "id": "ChIJ73RTKmF5X0YRA2bTAeYDN1Q"
+  },
+  {
+    "name": "Pho & Bun",
+    "category": "Vietnamese",
+    "lng": 18.1345496,
+    "lat": 59.1851904,
+    "id": "ChIJ0wpyoCJ7X0YRYmGgXX_LNhI"
+  },
+  {
+    "name": "An Nam",
+    "category": "Vietnamese",
+    "lng": 18.0616591,
+    "lat": 59.33989649999999,
+    "id": "ChIJe3cpDNGdX0YR7Zubmrwkz_A"
+  },
+  {
+    "name": "Bun Bun",
+    "category": "Vietnamese",
+    "lng": 18.058593,
+    "lat": 59.3113994,
+    "id": "ChIJLTetL7N3X0YRdJ-mFEQIa2g"
+  },
+  {
+    "name": "Vietnam Deli",
+    "category": "Vietnamese",
+    "lng": 18.0626557,
+    "lat": 59.33439720000001,
+    "id": "ChIJ7c-0E1mdX0YRogAlKu_2ddg"
+  },
+  {
+    "name": "Chioi",
+    "category": "Vietnamese",
+    "lng": 18.0657783,
+    "lat": 59.3336401,
+    "id": "ChIJe504tBKdX0YRYOswAmFTlDI"
+  },
+  {
+    "name": "Thi Thi Baguette",
+    "category": "Vietnamese",
+    "lng": 18.0618351,
+    "lat": 59.3149349,
+    "id": "ChIJQzrwuIN3X0YRhsVi5s1cCPE"
+  },
+  {
+    "name": "Viet Kitchen",
+    "category": "Vietnamese",
+    "lng": 18.070485,
+    "lat": 59.3147755,
+    "id": "ChIJUf02DI13X0YRK3x5XzLvc3s"
+  },
+  {
+    "name": "Allegrine",
+    "category": "French",
+    "lng": 18.0611439,
+    "lat": 59.3390345,
+    "id": "ChIJW9Ka1medX0YRF9l88Qzy3O4"
+  },
+  {
+    "name": "Pastis",
+    "category": "French",
+    "lng": 18.0733332,
+    "lat": 59.325,
+    "id": "ChIJKyHyl-J3X0YRVCrWIBYkJxA"
+  },
+  {
+    "name": "Brasserie Godot",
+    "category": "French",
+    "lng": 18.0775816,
+    "lat": 59.3376923,
+    "id": "ChIJY2_TuUSdX0YRuKLqbGsCdbA"
+  },
+  {
+    "name": "La Colline",
+    "category": "French",
+    "lng": 18.0720766,
+    "lat": 59.31687849999999,
+    "id": "ChIJcUkV3_p3X0YRqiW2oGcITY8"
+  },
+  {
+    "name": "Brasserie Bobonne",
+    "category": "French",
+    "lng": 18.0833111,
+    "lat": 59.3349693,
+    "id": "ChIJJREqoVqdX0YRh0LYhJXtXh0"
+  },
+  {
+    "name": "Café Facile",
+    "category": "French",
+    "lng": 18.0570798,
+    "lat": 59.34389059999999,
+    "id": "ChIJkbUJw26dX0YR7THPm5-Bt9g"
+  },
+  {
+    "name": "Café Colette",
+    "category": "French",
+    "lng": 18.0382434,
+    "lat": 59.3415135,
+    "id": "ChIJRzJSF3qdX0YRkNC6yjjGoBM"
+  },
+  {
+    "name": "Bistrot Paname",
+    "category": "French",
+    "lng": 18.0525056,
+    "lat": 59.3442161,
+    "id": "ChIJl1ajSG6dX0YRr4-nGEBwQiM"
+  },
+  {
+    "name": "La Girafe",
+    "category": "French",
+    "lng": 18.0407411,
+    "lat": 59.3332545,
+    "id": "ChIJoecCC6SdX0YRoSHmOcnj4ZM"
+  },
+  {
+    "name": "Främmat",
+    "category": "French",
+    "lng": 18.0452626,
+    "lat": 59.34224799999999,
+    "id": "ChIJF7bEDzGdX0YRp2Z0Oo0ac5I"
+  },
+  {
+    "name": "Brasserie Makalös",
+    "category": "French",
+    "lng": 18.0692664,
+    "lat": 59.3313066,
+    "id": "ChIJgw91ul6dX0YRsc18PmURz7s"
+  },
+  {
+    "name": "Café Cuvée",
+    "category": "French",
+    "lng": 18.0629246,
+    "lat": 59.3154303,
+    "id": "ChIJOYYCI1Z3X0YRqLxUBoVMqcA"
+  },
+  {
+    "name": "Mirabelle",
+    "category": "French",
+    "lng": 18.0591784,
+    "lat": 59.34561780000001,
+    "id": "ChIJES63PD6dX0YRO4LrojhHmSs"
+  },
+  {
+    "name": "Campoloro",
+    "category": "French",
+    "lng": 18.0581719,
+    "lat": 59.3441049,
+    "id": "ChIJY9d6yG6dX0YRMubZE8ATSuY"
+  },
+  {
+    "name": "Crêperie Fyra Knop",
+    "category": "French",
+    "lng": 18.0723279,
+    "lat": 59.31723280000001,
+    "id": "ChIJIxkxEPt3X0YRg58_9zquFoE"
+  },
+  {
+    "name": "La Bergerie",
+    "category": "French",
+    "lng": 18.0094897,
+    "lat": 59.33811309999999,
+    "id": "ChIJBf9g_IadX0YRw0v9EYEOpbo"
+  },
+  {
+    "name": "Chez Jolie",
+    "category": "French",
+    "lng": 18.0764335,
+    "lat": 59.333913,
+    "id": "ChIJDWM9dQGdX0YR5mB01YHaxBE"
+  },
+  {
+    "name": "Arirang",
+    "category": "Korean",
+    "lng": 18.0602083,
+    "lat": 59.34060830000001,
+    "id": "ChIJGbWBlGidX0YRJzaVDQ1xUQA"
+  },
+  {
+    "name": "Koreana",
+    "category": "Korean",
+    "lng": 18.0588837,
+    "lat": 59.3422869,
+    "id": "ChIJ9Ywg0WidX0YRVP0utoDtjlw"
+  },
+  {
+    "name": "Kimchi",
+    "category": "Korean",
+    "lng": 18.0573411,
+    "lat": 59.34362329999999,
+    "id": "ChIJSfUm226dX0YR6kX5FD1Mzoc"
+  },
+  {
+    "name": "Kimchistan",
+    "category": "Korean",
+    "lng": 18.0603694,
+    "lat": 59.339775,
+    "id": "ChIJiR411xGdX0YR54mrRcJGigY"
+  },
+  {
+    "name": "Madam",
+    "category": "Korean",
+    "lng": 18.0765164,
+    "lat": 59.31527200000001,
+    "id": "ChIJ1YY3wbp3X0YRUteNfM1K2VU"
+  },
+  {
+    "name": "Seoul Kimchi",
+    "category": "Korean",
+    "lng": 18.0258636,
+    "lat": 59.3382069,
+    "id": "ChIJgV4s_oydX0YRafS3IxonCWU"
+  },
+  {
+    "name": "Korea House",
+    "category": "Korean",
+    "lng": 18.0473267,
+    "lat": 59.34891990000001,
+    "id": "ChIJLXJztXOdX0YRIFRLsg5oRpE"
+  },
+  {
+    "name": "Monster Chicken",
+    "category": "Korean",
+    "lng": 18.0776532,
+    "lat": 59.3076841,
+    "id": "ChIJzYtihPZ3X0YRwFf8OepvrnM"
+  },
+  {
+    "name": "Moldau",
+    "category": "Eastern/Central European",
+    "lng": 18.030043,
+    "lat": 59.3156584,
+    "id": "ChIJWW4hlcV3X0YRkl49AOKbpx8"
+  },
+  {
+    "name": "Soldaten Svejk",
+    "category": "Eastern/Central European",
+    "lng": 18.0766874,
+    "lat": 59.31451490000001,
+    "id": "ChIJG7iuFvp3X0YRiPaEGKNO8e8"
+  },
+  {
+    "name": "Bar Central",
+    "category": "Eastern/Central European",
+    "lng": 18.0566457,
+    "lat": 59.3339096,
+    "id": "ChIJ31kGK2GdX0YRORSmymyl2XM"
+  },
+  {
+    "name": "Café Eurobar",
+    "category": "Eastern/Central European",
+    "lng": 18.0789741,
+    "lat": 59.30989390000001,
+    "id": "ChIJbZrX_PZ3X0YRlvTRl8Pc04Q"
+  },
+  {
+    "name": "Schnitzelei",
+    "category": "Eastern/Central European",
+    "lng": 13.3878853,
+    "lat": 52.5285831,
+    "id": "ChIJywdI5etRqEcRUVD-ycuGL6M"
+  },
+  {
+    "name": "85 Kvadrat Tapas",
+    "category": "Eastern/Central European",
+    "lng": 18.0377523,
+    "lat": 59.32946579999999,
+    "id": "ChIJJwXw9Nd3X0YReVBTO-ji8JQ"
+  },
+  {
+    "name": "Liebling",
+    "category": "Eastern/Central European",
+    "lng": 18.0602288,
+    "lat": 59.31748320000001,
+    "id": "ChIJnRTzutt3X0YRKyPdmLopwkI"
+  },
+  {
+    "name": "Gamla Stans Lykta",
+    "category": "Eastern/Central European",
+    "lng": 18.0738821,
+    "lat": 59.325651,
+    "id": "ChIJo1z9n-J3X0YRBczAGQWrHCI"
+  },
+  {
+    "name": "Sekt",
+    "category": "Eastern/Central European",
+    "lng": 18.0761074,
+    "lat": 59.3092796,
+    "id": "ChIJJZkSxvZ3X0YRwZLWiYXPpE8"
+  },
+  {
+    "name": "Russian House",
+    "category": "Eastern/Central European",
+    "lng": 18.1326718,
+    "lat": 59.3560785,
+    "id": "ChIJVRwzddGCX0YRCrCNGkyJXB0"
+  },
+  {
+    "name": "Balkanica",
+    "category": "Eastern/Central European",
+    "lng": 17.837793,
+    "lat": 59.3621292,
+    "id": "ChIJW2bFN5WfX0YRONf1JKoZpW4"
+  },
+  {
+    "name": "Mozarteum",
+    "category": "Eastern/Central European",
+    "lng": 18.0482618,
+    "lat": 59.3317472,
+    "id": "ChIJJT9LN2KdX0YRYqovfXR8qg4"
+  },
+  {
+    "name": "Lilla Prag",
+    "category": "Eastern/Central European",
+    "lng": 18.0524842,
+    "lat": 59.3460981,
+    "id": "ChIJz-YfDG6dX0YR4facHx93Vw8"
+  },
+  {
+    "name": "Balkan Wine & Meze",
+    "category": "Eastern/Central European",
+    "lng": 18.0330455,
+    "lat": 59.3150485,
+    "id": "ChIJAbvvVwF3X0YREMRzIes6V5c"
+  },
+  {
+    "name": "Stim",
+    "category": "Seafood",
+    "lng": 18.044311,
+    "lat": 59.3164008,
+    "id": "ChIJ8yeWHsN3X0YR5NFL2-PWlBk"
+  },
+  {
+    "name": "Räkan",
+    "category": "Seafood",
+    "lng": 17.5516866,
+    "lat": 58.89391289999999,
+    "id": "ChIJfZFpNDpHX0YRbHgg_3-310U"
+  },
+  {
+    "name": "B.A.R",
+    "category": "Seafood",
+    "lng": 18.0589524,
+    "lat": 59.3299384,
+    "id": "ChIJBQazbmCdX0YRRo4AKDBdI0Q"
+  },
+  {
+    "name": "Wasahof",
+    "category": "Seafood",
+    "lng": 18.0463903,
+    "lat": 59.3411735,
+    "id": "ChIJ16ZhqXqdX0YR1S5KnAqipw4"
+  },
+  {
+    "name": "Musslan",
+    "category": "Seafood",
+    "lng": 18.0464867,
+    "lat": 59.34130139999999,
+    "id": "ChIJ16ZhqXqdX0YRMmiTMolcJio"
+  },
+  {
+    "name": "Mister French",
+    "category": "Seafood",
+    "lng": 18.0758216,
+    "lat": 59.3241222,
+    "id": "ChIJ_auYqeJ3X0YRSnqcMNPPluk"
+  },
+  {
+    "name": "Elefantpojken",
+    "category": "Thai",
+    "lng": 18.083625,
+    "lat": 59.3094488,
+    "id": "ChIJlVZJzfd3X0YRjxkEREyIrwE"
+  },
+  {
+    "name": "Orkidé",
+    "category": "Thai",
+    "lng": 18.1146254,
+    "lat": 59.3026421,
+    "id": "ChIJBdMrO855X0YRsj5P9c18Gis"
+  },
+  {
+    "name": "Itamae Thai Style",
+    "category": "Thai",
+    "lng": 18.0514712,
+    "lat": 59.3421709,
+    "id": "ChIJTWU1vG-dX0YRIGXgN6uv0IM"
+  },
+  {
+    "name": "Hökis Thai",
+    "category": "Thai",
+    "lng": 18.0742498,
+    "lat": 59.2544847,
+    "id": "ChIJh96HBsJ5X0YR_o-cS5x6yRY"
+  },
+  {
+    "name": "Thongwiset",
+    "category": "Thai",
+    "lng": 18.049353,
+    "lat": 59.3171015,
+    "id": "ChIJn078qsJ3X0YRhQ6rRpRyW2E"
+  },
+  {
+    "name": "Pats Place",
+    "category": "Thai",
+    "lng": 18.0895592,
+    "lat": 59.3154944,
+    "id": "ChIJL2AVdgJ4X0YRfJ9aX3_iu8I"
+  },
+  {
+    "name": "Flippin’ Burgers",
+    "category": "Burgers",
+    "lng": 18.0508108,
+    "lat": 59.34064479999999,
+    "id": "ChIJydA5Sn-dX0YRVDEhiha9wjU"
+  },
+  {
+    "name": "Franky’s",
+    "category": "Burgers",
+    "lng": 18.060533,
+    "lat": 59.3398088,
+    "id": "ChIJxesJ9m6dX0YREGjnk-tHr8U"
+  },
+  {
+    "name": "Bastard Burgers",
+    "category": "Burgers",
+    "lng": 18.0669031,
+    "lat": 59.3315533,
+    "id": "ChIJB_r3Fh2dX0YRxaFEC9bX-MA"
+  },
+  {
+    "name": "Bun Meat Bun",
+    "category": "Burgers",
+    "lng": 18.062297,
+    "lat": 59.33192409999999,
+    "id": "ChIJ_5QziUGdX0YR4pM_9DOdB6E"
+  },
+  {
+    "name": "Miss Behave Bar",
+    "category": "Burgers",
+    "lng": 18.0755082,
+    "lat": 59.3233619,
+    "id": "ChIJORzGLv13X0YRsbOPx3TfSoo"
+  },
+  {
+    "name": "Babas Burgers",
+    "category": "Burgers",
+    "lng": 17.9779472,
+    "lat": 59.36157490000001,
+    "id": "ChIJ_54czFydX0YRT4n-rdxmAgU"
+  },
+  {
+    "name": "Barrels and burgers",
+    "category": "Burgers",
+    "lng": 18.06842,
+    "lat": 59.3246547,
+    "id": "ChIJAQAADON3X0YRhn64TdpDz2U"
+  },
+  {
+    "name": "Lilys Burgers",
+    "category": "Burgers",
+    "lng": 18.0813303,
+    "lat": 59.3120936,
+    "id": "ChIJdUmbefd3X0YRDWW8SC1YQgw"
+  },
+  {
+    "name": "Brödernas",
+    "category": "Burgers",
+    "lng": 18.062371,
+    "lat": 59.3326709,
+    "id": "ChIJa0hRlEWdX0YRcZZa7iSy5Cg"
+  },
+  {
+    "name": "Funky Chicken Food truck",
+    "category": "Burgers",
+    "lng": 18.161141,
+    "lat": 59.31654140000001,
+    "id": "ChIJrcLYrCGDX0YRQUqRE6EC8bY"
+  },
+  {
+    "name": "Krubb",
+    "category": "Burgers",
+    "lng": 17.995297,
+    "lat": 59.2986188,
+    "id": "ChIJzZp8Bu13X0YR2OgzuWhNvXo"
+  },
+  {
+    "name": "Svenska Hamburgerköket",
+    "category": "Burgers",
+    "lng": 18.0039352,
+    "lat": 59.3001321,
+    "id": "ChIJRQ9PCrJ3X0YRWXHIBbdkFIY"
+  },
+  {
+    "name": "BC Burgers",
+    "category": "Burgers",
+    "lng": 18.0647211,
+    "lat": 59.33067269999999,
+    "id": "ChIJuUQLgn6dX0YRwKYDAKeNp2I"
+  },
+  {
+    "name": "Lewinskys burger",
+    "category": "Burgers",
+    "lng": 18.0339613,
+    "lat": 59.3398051,
+    "id": "ChIJtcsgcXmdX0YRE1kRiK8JL50"
+  },
+  {
+    "name": "Prime Burger",
+    "category": "Burgers",
+    "lng": 18.061111,
+    "lat": 59.3363889,
+    "id": "ChIJuZOyoGedX0YRIJYIZ1uxXac"
+  },
+  {
+    "name": "BAP",
+    "category": "Burgers",
+    "lng": 18.0822527,
+    "lat": 59.33671219999999,
+    "id": "ChIJ5cMESkWdX0YR_bcdM9wp2Wc"
+  },
+  {
+    "name": "Brisket & Friends",
+    "category": "BBQ/Steak",
+    "lng": 18.054133,
+    "lat": 59.3368002,
+    "id": "ChIJEzkcuVidX0YRPphEUqLz2mw"
+  },
+  {
+    "name": "Gute",
+    "category": "BBQ/Steak",
+    "lng": 18.0694378,
+    "lat": 59.3368091,
+    "id": "ChIJsea8G76dX0YRJasevz7VCoA"
+  },
+  {
+    "name": "Det Arroganta Svinet",
+    "category": "BBQ/Steak",
+    "lng": 18.1123735,
+    "lat": 59.1489112,
+    "id": "ChIJaToSlFx7X0YRg1ctIzSCee4"
+  },
+  {
+    "name": "Svartengrens",
+    "category": "BBQ/Steak",
+    "lng": 18.0590147,
+    "lat": 59.3458695,
+    "id": "ChIJSy-mHmydX0YRtq74szDmhJc"
+  },
+  {
+    "name": "AG",
+    "category": "BBQ/Steak",
+    "lng": 18.034825,
+    "lat": 59.335247,
+    "id": "ChIJc14WR3ydX0YR9ZLvVP-QfrY"
+  },
+  {
+    "name": "Austin Food Works",
+    "category": "BBQ/Steak",
+    "lng": 18.0462354,
+    "lat": 59.3479257,
+    "id": "ChIJ88F90XOdX0YRoiT7-uo1tOM"
+  },
+  {
+    "name": "Misshumasshu",
+    "category": "Asian Fusion",
+    "lng": 18.0739956,
+    "lat": 59.3338012,
+    "id": "ChIJJ5UKU9edX0YR-Y9I5eJwonM"
+  },
+  {
+    "name": "Farang",
+    "category": "Asian Fusion",
+    "lng": 18.0625761,
+    "lat": 59.3417025,
+    "id": "ChIJG2kmVmidX0YRSNg4ivFMQ7w"
+  },
+  {
+    "name": "Wäng",
+    "category": "Asian Fusion",
+    "lng": 18.0585903,
+    "lat": 59.3411468,
+    "id": "ChIJbUBEuGidX0YRmvzDu1KTxSo"
+  },
+  {
+    "name": "Zinnia",
+    "category": "Asian Fusion",
+    "lng": 18.0713551,
+    "lat": 59.31786870000001,
+    "id": "ChIJFbS8HrN3X0YRC33zTZP0gVE"
+  },
+  {
+    "name": "Liberdade",
+    "category": "Asian Fusion",
+    "lng": 18.077518,
+    "lat": 59.31208309999999,
+    "id": "ChIJCzJJeFV3X0YRA0DOTcxR414"
+  },
+  {
+    "name": "Asian Post Office",
+    "category": "Asian Fusion",
+    "lng": 18.0677524,
+    "lat": 59.3361749,
+    "id": "ChIJEVO2Gl2dX0YRUDEsV8Gquv8"
+  },
+  {
+    "name": "Jebena",
+    "category": "East African",
+    "lng": 18.0473991,
+    "lat": 59.3294986,
+    "id": "ChIJldduBGKdX0YRdpU6xHmDVKE"
+  },
+  {
+    "name": "Gojo",
+    "category": "East African",
+    "lng": 18.0860833,
+    "lat": 59.3101718,
+    "id": "ChIJBexXYB14X0YRmp-54H_HupE"
+  },
+  {
+    "name": "Abyssinia",
+    "category": "East African",
+    "lng": 18.0377181,
+    "lat": 59.3427623,
+    "id": "ChIJkYwvg3GdX0YRFJ13A2QV7Y4"
+  },
+  {
+    "name": "Ethiostar",
+    "category": "East African",
+    "lng": 18.0570436,
+    "lat": 59.3408981,
+    "id": "ChIJAQAAHWadX0YRpPKmKdXNF7I"
+  },
+  {
+    "name": "Lalibela",
+    "category": "East African",
+    "lng": 39.0476298,
+    "lat": 12.0308987,
+    "id": "ChIJAy1Pge4-QRYRYkuugucUdPI"
+  },
+  {
+    "name": "Dahlak",
+    "category": "East African",
+    "lng": 18.0837766,
+    "lat": 59.2881713,
+    "id": "ChIJl_qDhyV4X0YRQyWuBaAAzm8"
+  },
+  {
+    "name": "Barwaaqo",
+    "category": "East African",
+    "lng": 17.9315664,
+    "lat": 59.3877389,
+    "id": "ChIJb_nfDtGfX0YR9qLsNcgXZqA"
+  },
+  {
+    "name": "Peniel",
+    "category": "East African",
+    "lng": 17.9392172,
+    "lat": 59.2245816,
+    "id": "ChIJm5n2SnJxX0YRGb03d-9a_cw"
+  },
+  {
+    "name": "Bahlina",
+    "category": "East African",
+    "lng": 17.9703406,
+    "lat": 59.36284879999999,
+    "id": "ChIJUY-DSuedX0YRvg27_7jgKiM"
+  },
+  {
+    "name": "Arya",
+    "category": "Persian/Afghan",
+    "lng": 18.0724024,
+    "lat": 59.3354204,
+    "id": "ChIJAQAUhVydX0YRhjL71SROBBY"
+  },
+  {
+    "name": "Shahrzad",
+    "category": "Persian/Afghan",
+    "lng": 18.0653723,
+    "lat": 59.34048439999999,
+    "id": "ChIJU5GKPGidX0YRPMxXLYr6dlw"
+  },
+  {
+    "name": "Diwan",
+    "category": "Persian/Afghan",
+    "lng": 18.0917407,
+    "lat": 59.34105629999999,
+    "id": "ChIJTYN7K0WdX0YRYeo5DSMxpVo"
+  },
+  {
+    "name": "Coup d'Etat",
+    "category": "Persian/Afghan",
+    "lng": 18.0716066,
+    "lat": 59.3429775,
+    "id": "ChIJjUf571mdX0YRY3EeHMZbz8I"
+  },
+  {
+    "name": "Vanak",
+    "category": "Persian/Afghan",
+    "lng": 17.9110446,
+    "lat": 59.4147335,
+    "id": "ChIJo5VLfB6fX0YRo4JSEVWeA7M"
+  },
+  {
+    "name": "Zarthost",
+    "category": "Persian/Afghan",
+    "lng": 17.9626521,
+    "lat": 59.4097933,
+    "id": "ChIJqQrPLZSeX0YRxROI6Li2xhk"
+  },
+  {
+    "name": "Saaghi",
+    "category": "Persian/Afghan",
+    "lng": 17.9952896,
+    "lat": 59.364705,
+    "id": "ChIJVSSIE8GdX0YRRXSgS0TLHbY"
+  },
+  {
+    "name": "Bonab",
+    "category": "Persian/Afghan",
+    "lng": 17.9637696,
+    "lat": 59.3636093,
+    "id": "ChIJIfe05U6dX0YR4tU_EiUXwlk"
+  },
+  {
+    "name": "Bano",
+    "category": "Persian/Afghan",
+    "lng": 18.0928372,
+    "lat": 59.30404179999999,
+    "id": "ChIJMyKiZl2dX0YRhMjvDQMkoDk"
+  },
+  {
+    "name": "Tbilisis hörna",
+    "category": "Georgian",
+    "lng": 18.0882177,
+    "lat": 59.2980976,
+    "id": "ChIJ923QPCJ4X0YR3CdwE8WrTJc"
+  },
+  {
+    "name": "Totemo Ramen",
+    "category": "Ramen",
+    "lng": 18.0360413,
+    "lat": 59.3385318,
+    "id": "ChIJSziZwnudX0YRww7Bp8HRMrg"
+  },
+  {
+    "name": "Ai Ramen",
+    "category": "Ramen",
+    "lng": 18.0580843,
+    "lat": 59.3333767,
+    "id": "ChIJnXPOhKSdX0YRRBq4j2R0sFk"
+  },
+  {
+    "name": "Ai Ramen Sofia",
+    "category": "Ramen",
+    "lng": 18.089937,
+    "lat": 59.31451140000001,
+    "id": "ChIJYT_2hwJ4X0YR0i6gTi9Xogo"
+  },
+  {
+    "name": "Take Ramen",
+    "category": "Ramen",
+    "lng": 18.0406068,
+    "lat": 59.3405913,
+    "id": "ChIJW7JPhC2dX0YRHleS0zCT-uY"
+  },
+  {
+    "name": "Raamen",
+    "category": "Ramen",
+    "lng": 18.0755093,
+    "lat": 59.3081963,
+    "id": "ChIJp16Hr_Z3X0YRtP4pIYlJS9Q"
+  },
+  {
+    "name": "Tokyo Ramen",
+    "category": "Ramen",
+    "lng": 18.0629681,
+    "lat": 59.3343689,
+    "id": "ChIJlUfZEQqdX0YRgHKCd_red14"
+  },
+  {
+    "name": "Kapibara Ramen",
+    "category": "Ramen",
+    "lng": 18.0777591,
+    "lat": 59.334185,
+    "id": "ChIJ6z0dBv6dX0YRMmMi1ZGlOBo"
+  },
+  {
+    "name": "Tonari Ramen",
+    "category": "Ramen",
+    "lng": 18.0777924,
+    "lat": 59.3148837,
+    "id": "ChIJOUnwhEl3X0YR2Z8GpeQmsEw"
+  },
+  {
+    "name": "Kumo Ramen",
+    "category": "Ramen",
+    "lng": 18.0468498,
+    "lat": 59.34168039999999,
+    "id": "ChIJEc-jFhedX0YRWv8ZLn2H__s"
+  },
+  {
+    "name": "N’YOI",
+    "category": "Ramen",
+    "lng": 18.0319184,
+    "lat": 59.31808710000001,
+    "id": "ChIJb-3E-f53X0YR5Yp_b4HFV7c"
+  },
+  {
+    "name": "Tengu",
+    "category": "Ramen",
+    "lng": 18.0694982,
+    "lat": 59.34343080000001,
+    "id": "ChIJyayDe1CdX0YRZJR1urIwGjs"
+  },
+  {
+    "name": "Sin Ramen",
+    "category": "Ramen",
+    "lng": 18.0671302,
+    "lat": 59.3346241,
+    "id": "ChIJQ7RcdTedX0YRcYAEm_iQbaQ"
+  },
+  {
+    "name": "Shanti",
+    "category": "Indian",
+    "lng": 18.0679828,
+    "lat": 59.313247,
+    "id": "ChIJk46xHvB3X0YRs64v2lleB4A"
+  },
+  {
+    "name": "Indian Garden",
+    "category": "Indian",
+    "lng": 18.0680188,
+    "lat": 59.3310141,
+    "id": "ChIJx7Fmvl6dX0YRHkYdlvMW8hs"
+  },
+  {
+    "name": "Holy Cow",
+    "category": "Indian",
+    "lng": 18.0662786,
+    "lat": 59.30838240000001,
+    "id": "ChIJ99ubGPJ3X0YRQG8nyNyHJs0"
+  },
+  {
+    "name": "Pataka",
+    "category": "Indian",
+    "lng": 18.0926249,
+    "lat": 59.34440049999999,
+    "id": "ChIJKWqBRO2dX0YRMTuCyTK9tO4"
+  },
+  {
+    "name": "Saravanaa Bhavan",
+    "category": "Indian",
+    "lng": 18.0358151,
+    "lat": 59.3382162,
+    "id": "ChIJu8HMQZmdX0YR-5GIpx9nD14"
+  },
+  {
+    "name": "The South Indian",
+    "category": "Indian",
+    "lng": 18.0366958,
+    "lat": 59.3154219,
+    "id": "ChIJPy78YA53X0YRlGNjiqIaHdc"
+  },
+  {
+    "name": "Lao Wai",
+    "category": "Vegetarian/Vegan",
+    "lng": 18.0564614,
+    "lat": 59.342118,
+    "id": "ChIJoQvt1GidX0YRedUwdvkJL_w"
+  },
+  {
+    "name": "Mathias Dahlgren Rutabaga",
+    "category": "Vegetarian/Vegan",
+    "lng": 18.076204,
+    "lat": 59.3293375,
+    "id": "ChIJYxBLuVmdX0YRTK1uc769YTo"
+  },
+  {
+    "name": "Växthuset",
+    "category": "Vegetarian/Vegan",
+    "lng": 18.078836,
+    "lat": 59.3044022,
+    "id": "ChIJTex4ofV3X0YRw57yN2DohVA"
+  },
+  {
+    "name": "Hermans",
+    "category": "Vegetarian/Vegan",
+    "lng": 18.0839872,
+    "lat": 59.3175886,
+    "id": "ChIJhcH3Ofl3X0YRspJafWpcGM4"
+  },
+  {
+    "name": "Chutney",
+    "category": "Vegetarian/Vegan",
+    "lng": 18.0764508,
+    "lat": 59.31207289999999,
+    "id": "ChIJM8n_yfB3X0YRq_87lsmFx1Q"
+  },
+  {
+    "name": "Kvarnen",
+    "category": "Swedish/Nordic",
+    "lng": 18.0741819,
+    "lat": 59.3148486,
+    "id": "ChIJa14naPp3X0YRmkZmDwg0-5s"
+  },
+  {
+    "name": "Tranan",
+    "category": "Swedish/Nordic",
+    "lng": 18.0492139,
+    "lat": 59.3432167,
+    "id": "ChIJe-HG22-dX0YRulYI9y_psKA"
+  },
+  {
+    "name": "Pelikan",
+    "category": "Swedish/Nordic",
+    "lng": 18.0762459,
+    "lat": 59.3105949,
+    "id": "ChIJrSV1Pfd3X0YRxwhoxSQ-Cug"
+  },
+  {
+    "name": "Blå dörren",
+    "category": "Swedish/Nordic",
+    "lng": 18.0701656,
+    "lat": 59.3202379,
+    "id": "ChIJ6ZY7p-R3X0YRXcXS0vhGatM"
+  },
+  {
+    "name": "Tennstopet",
+    "category": "Swedish/Nordic",
+    "lng": 18.0457699,
+    "lat": 59.3417683,
+    "id": "ChIJj5MpCnCdX0YRQUxSg1X3F44"
+  },
+  {
+    "name": "Den Gyldene Freden",
+    "category": "Swedish/Nordic",
+    "lng": 18.073786,
+    "lat": 59.32316749999999,
+    "id": "ChIJo2D60OJ3X0YRpSgBrukx24o"
+  },
+  {
+    "name": "Meatballs",
+    "category": "Swedish/Nordic",
+    "lng": 18.0814491,
+    "lat": 59.3145789,
+    "id": "ChIJbYc9vPl3X0YR00NA50Rzmxw"
+  },
+  {
+    "name": "Wood",
+    "category": "Swedish/Nordic",
+    "lng": 18.0624498,
+    "lat": 59.3326065,
+    "id": "ChIJ0YGMa52dX0YRnNi0BPyO47o"
+  },
+  {
+    "name": "Sturehof",
+    "category": "Swedish/Nordic",
+    "lng": 18.073299,
+    "lat": 59.3358575,
+    "id": "ChIJjRRMnFydX0YR1B4u6G720yk"
+  },
+  {
+    "name": "Eriks Basar",
+    "category": "Swedish/Nordic",
+    "lng": 18.0208502,
+    "lat": 59.3342531,
+    "id": "ChIJE3yf5X-dX0YRIb_wP9AM7lU"
+  },
+  {
+    "name": "Tabberaset",
+    "category": "Swedish/Nordic",
+    "lng": 18.0871035,
+    "lat": 59.3154663,
+    "id": "ChIJb7uaYrV3X0YR4lWvArnze5Y"
+  },
+  {
+    "name": "Sillkaféet",
+    "category": "Swedish/Nordic",
+    "lng": 18.0691299,
+    "lat": 59.3233353,
+    "id": "ChIJMwkVgtt3X0YRiwf_PWwsVlc"
+  },
+  {
+    "name": "Slingerbulten",
+    "category": "Swedish/Nordic",
+    "lng": 18.0688856,
+    "lat": 59.32435630000001,
+    "id": "ChIJH28eReJ3X0YRw3-NsSo_ey4"
+  },
+  {
+    "name": "Hantverket",
+    "category": "Swedish/Nordic",
+    "lng": 18.0767585,
+    "lat": 59.34145780000001,
+    "id": "ChIJqz85jUOdX0YRIgo1i08U5wI"
+  },
+  {
+    "name": "Knut",
+    "category": "Swedish/Nordic",
+    "lng": 18.0528574,
+    "lat": 59.33815809999999,
+    "id": "ChIJp9cZGmKdX0YRjT6rpP3zrR0"
+  },
+  {
+    "name": "Två små svin",
+    "category": "Swedish/Nordic",
+    "lng": 18.0517454,
+    "lat": 59.2965741,
+    "id": "ChIJeyACsZF3X0YRM2ZGE0RqMC0"
+  },
+  {
+    "name": "Matrosen smørrebrød",
+    "category": "Swedish/Nordic",
+    "lng": 18.0752821,
+    "lat": 59.3244945,
+    "id": "ChIJMytysZV3X0YRJwNgcQUK0XA"
+  },
+  {
+    "name": "Zum Franziskaner",
+    "category": "Swedish/Nordic",
+    "lng": 18.074093,
+    "lat": 59.3223353,
+    "id": "ChIJ4bW31Px3X0YRmOXh2tebxs4"
+  },
+  {
+    "name": "Restaurang Prinsen",
+    "category": "Swedish/Nordic",
+    "lng": 18.0732944,
+    "lat": 59.33439169999999,
+    "id": "ChIJjSueX_l3X0YRUCBOFOOEdLo"
+  },
+  {
+    "name": "Järnvägsrestaurangen på Östra Station",
+    "category": "Swedish/Nordic",
+    "lng": 18.0713159,
+    "lat": 59.3460085,
+    "id": "ChIJB0ChemqdX0YRnju6l4udDRE"
+  },
+  {
+    "name": "Nybroe",
+    "category": "Swedish/Nordic",
+    "lng": 18.0778683,
+    "lat": 59.33590369999999,
+    "id": "ChIJ4UWCKnWeX0YRhZT2oI61UnQ"
+  },
+  {
+    "name": "Günthers",
+    "category": "Sausages",
+    "lng": 18.032503,
+    "lat": 59.3425068,
+    "id": "ChIJF6pMM3idX0YRE0Be_oaUZ7c"
+  },
+  {
+    "name": "Brunos korvbar",
+    "category": "Sausages",
+    "lng": 18.0797937,
+    "lat": 59.33806500000001,
+    "id": "ChIJDfSKwUSdX0YRdabkrL6nYnI"
+  },
+  {
+    "name": "Göstas Korvrestaurang",
+    "category": "Sausages",
+    "lng": 18.0419287,
+    "lat": 59.3107942,
+    "id": "ChIJDyj1vsF3X0YRf0oEA_evR6k"
+  },
+  {
+    "name": "Frantzén",
+    "category": "Fine Dining",
+    "lng": 18.0586124,
+    "lat": 59.3339101,
+    "id": "ChIJhwomM2edX0YR9gW2q53gJRg"
+  },
+  {
+    "name": "Aloë",
+    "category": "Fine Dining",
+    "lng": 17.9855496,
+    "lat": 59.2842478,
+    "id": "ChIJTd9AGwJ3X0YRugDia1Gerg0"
+  },
+  {
+    "name": "Ichi",
+    "category": "Fine Dining",
+    "lng": 18.0554293,
+    "lat": 59.3346226,
+    "id": "ChIJ-5dpymadX0YRD_6KmOHoGYU"
+  },
+  {
+    "name": "Agrikultur",
+    "category": "Fine Dining",
+    "lng": 18.0833109,
+    "lat": 59.3128878,
+    "id": "ChIJpbO8Lvh3X0YR-qDlv20g5f4"
+  },
+  {
+    "name": "Oaxen",
+    "category": "Fine Dining",
+    "lng": 18.1017094,
+    "lat": 59.3223377,
+    "id": "ChIJBz7hJkFCX0YROzC0Oj37GyI"
+  },
+  {
+    "name": "Etoile",
+    "category": "Fine Dining",
+    "lng": 18.0439008,
+    "lat": 59.3494772,
+    "id": "ChIJgVLWIy2dX0YRwzH2Ot8s_KM"
+  },
+  {
+    "name": "Portal",
+    "category": "Fine Dining",
+    "lng": 18.0389927,
+    "lat": 59.3389529,
+    "id": "ChIJVVXpr3udX0YR-qz-vKn0JmA"
+  },
+  {
+    "name": "Sensum",
+    "category": "Fine Dining",
+    "lng": 18.0523006,
+    "lat": 59.3361724,
+    "id": "ChIJEZoIGGSdX0YR1uOF3ZNj_yY"
+  },
+  {
+    "name": "Nook",
+    "category": "Fine Dining",
+    "lng": 18.0589334,
+    "lat": 59.3110513,
+    "id": "ChIJUXqZY_h3X0YRh0JMcEqvQYg"
+  },
+  {
+    "name": "Lilla Ego",
+    "category": "Fine Dining",
+    "lng": 18.0454351,
+    "lat": 59.34360960000001,
+    "id": "ChIJ3x_sRnCdX0YRp4dr2VnNLpU"
+  },
+  {
+    "name": "Aira",
+    "category": "Fine Dining",
+    "lng": 18.123695,
+    "lat": 59.3207981,
+    "id": "ChIJo-jR6FCDX0YRyX4XLbig0yI"
+  },
+  {
+    "name": "Ekstedts",
+    "category": "Fine Dining",
+    "lng": 18.0749183,
+    "lat": 59.33678159999999,
+    "id": "ChIJhThAV1udX0YRWy5QWVtNNWY"
+  },
+  {
+    "name": "Brasserie Astoria",
+    "category": "Fine Dining",
+    "lng": 18.0773478,
+    "lat": 59.33485520000001,
+    "id": "ChIJ-cv0D02dX0YRAJuNYfD5OaQ"
+  },
+  {
+    "name": "Nana Omakase",
+    "category": "Fine Dining",
+    "lng": 18.0515979,
+    "lat": 59.33753410000001,
+    "id": "ChIJQ_TIU_idX0YR2Qm7ZPMCmL4"
+  },
+  {
+    "name": "Prospero",
+    "category": "Fine Dining",
+    "lng": 18.0590028,
+    "lat": 59.34712380000001,
+    "id": "ChIJpWE9Re6dX0YRX3pdKOF2bQc"
+  },
+  {
+    "name": "Coco & Carmen",
+    "category": "Fine Dining",
+    "lng": 18.0914078,
+    "lat": 59.33301710000001,
+    "id": "ChIJsSUpj1GdX0YReKarvcjnbds"
+  },
+  {
+    "name": "Nour",
+    "category": "Fine Dining",
+    "lng": 18.0713766,
+    "lat": 59.33576909999999,
+    "id": "ChIJpWwPqfidX0YRhMopIamkCHY"
+  },
+  {
+    "name": "Adam/Albin",
+    "category": "Fine Dining",
+    "lng": 18.0661854,
+    "lat": 59.3429938,
+    "id": "ChIJKdaIv2mdX0YR9RuQJ2s4kME"
+  },
+  {
+    "name": "Amo falafel",
+    "category": "Middle Eastern",
+    "lng": 18.0278192,
+    "lat": 59.2570472,
+    "id": "ChIJ3xW5vid3X0YRnNjLX6ok8Ss"
+  },
+  {
+    "name": "Amida kolgrill",
+    "category": "Middle Eastern",
+    "lng": 18.0783635,
+    "lat": 59.31472669999999,
+    "id": "ChIJU_anGPp3X0YRTIbCK2z6-bA"
+  },
+  {
+    "name": "Palmyra kebab",
+    "category": "Middle Eastern",
+    "lng": 18.0501333,
+    "lat": 59.2971149,
+    "id": "ChIJbWLjp5F3X0YRtNx3JOxgZH0"
+  },
+  {
+    "name": "El Beik",
+    "category": "Middle Eastern",
+    "lng": 18.081763,
+    "lat": 59.25649589999999,
+    "id": "ChIJ4zH4WxZ5X0YRG7PEkyyo0No"
+  },
+  {
+    "name": "Burgerian Falafel",
+    "category": "Middle Eastern",
+    "lng": 18.0761449,
+    "lat": 59.315631,
+    "id": "ChIJj078Rfp3X0YRdYm6q4kD694"
+  },
+  {
+    "name": "Falloumi",
+    "category": "Middle Eastern",
+    "lng": 18.077788,
+    "lat": 59.3081755,
+    "id": "ChIJzcfMj_Z3X0YRrDsuoRcvRko"
+  },
+  {
+    "name": "Pita",
+    "category": "Middle Eastern",
+    "lng": 18.0068945,
+    "lat": 59.30104999999999,
+    "id": "ChIJf3B3flZ3X0YRL1iSGfrmJJk"
+  },
+  {
+    "name": "Bitza",
+    "category": "Middle Eastern",
+    "lng": 18.032963,
+    "lat": 59.31443059999999,
+    "id": "ChIJ6yusULp3X0YRM8zL5sZrT10"
+  },
+  {
+    "name": "Zoro Kolgrill",
+    "category": "Middle Eastern",
+    "lng": 18.090062,
+    "lat": 59.3033698,
+    "id": "ChIJNVXQT615X0YR7zHyEkhjMOE"
+  },
+  {
+    "name": "Midan",
+    "category": "Middle Eastern",
+    "lng": 18.0531105,
+    "lat": 59.343584,
+    "id": "ChIJUbHIrG-dX0YRpyxW45VcPLE"
+  },
+  {
+    "name": "Mangal",
+    "category": "Middle Eastern",
+    "lng": 18.0580626,
+    "lat": 59.3309453,
+    "id": "ChIJnU16ol2dX0YR7jZOUzJdYZw"
+  },
+  {
+    "name": "Ta'ameya Falafel",
+    "category": "Middle Eastern",
+    "lng": 18.0602788,
+    "lat": 59.3397549,
+    "id": "ChIJXRw7Yb2dX0YRSQ88gU2Kuug"
+  },
+  {
+    "name": "Macchina",
+    "category": "Middle Eastern",
+    "lng": 18.0486549,
+    "lat": 59.2697247,
+    "id": "ChIJ-SQgXDF3X0YRVD6l1f0JjBI"
+  },
+  {
+    "name": "Çok Döner",
+    "category": "Middle Eastern",
+    "lng": 18.0075071,
+    "lat": 59.3404195,
+    "id": "ChIJRVMRDYadX0YRZeONuI9X2Ik"
+  },
+  {
+    "name": "Fanoos",
+    "category": "Middle Eastern",
+    "lng": 17.8754546,
+    "lat": 59.3582765,
+    "id": "ChIJywh7NCueX0YRBzS9KOtSHNc"
+  },
+  {
+    "name": "Spinaci",
+    "category": "Middle Eastern",
+    "lng": 17.876667,
+    "lat": 59.2532924,
+    "id": "ChIJl4JLDf5zX0YRmLjrQMjC-_k"
+  },
+  {
+    "name": "Restaurang Kurdistan",
+    "category": "Middle Eastern",
+    "lng": 17.9862662,
+    "lat": 59.34960359999999,
+    "id": "ChIJNzJoh_KdX0YRNytIiRjcUpo"
+  },
+  {
+    "name": "Reggev Hummus",
+    "category": "Middle Eastern",
+    "lng": 18.0820252,
+    "lat": 59.3089694,
+    "id": "ChIJ_YMtw2OdX0YRFF6bafq3d2Y"
+  },
+  {
+    "name": "Checha",
+    "category": "Latin/South American",
+    "lng": 18.0872848,
+    "lat": 59.3144773,
+    "id": "ChIJVRk9SPZ3X0YRSpEdip8Q4hM"
+  },
+  {
+    "name": "Maestra Vida",
+    "category": "Latin/South American",
+    "lng": 18.034485,
+    "lat": 59.3181617,
+    "id": "ChIJl-NrIcV3X0YRLLTU3QXh9wQ"
+  },
+  {
+    "name": "Chicha 08",
+    "category": "Latin/South American",
+    "lng": 18.0256945,
+    "lat": 59.306403,
+    "id": "ChIJ99ubGPJ3X0YRbxmDOgIupC4"
+  },
+  {
+    "name": "Canta Lola",
+    "category": "Latin/South American",
+    "lng": 18.0749753,
+    "lat": 59.33514399999999,
+    "id": "ChIJPfWvKxKdX0YRhUHz3tMjS2c"
+  },
+  {
+    "name": "Supper",
+    "category": "Latin/South American",
+    "lng": 18.0747333,
+    "lat": 59.33655169999999,
+    "id": "ChIJnd6jFmadX0YRN16H2ZYV8AE"
+  },
+  {
+    "name": "The Meat",
+    "category": "Latin/South American",
+    "lng": 18.0576539,
+    "lat": 59.3319613,
+    "id": "ChIJn2J27GCdX0YRCJPx5NWpmhY"
+  },
+  {
+    "name": "Aji y Ajo",
+    "category": "Latin/South American",
+    "lng": 18.0972916,
+    "lat": 59.3086655,
+    "id": "ChIJMUX6_cB5X0YRCCwsglUG7M0"
+  },
+  {
+    "name": "Peppar",
+    "category": "Latin/South American",
+    "lng": 18.0388669,
+    "lat": 59.34026540000001,
+    "id": "ChIJSUGqTnqdX0YRtmIYl5vV4mg"
+  },
+  {
+    "name": "Yuc",
+    "category": "Latin/South American",
+    "lng": 18.0513167,
+    "lat": 59.34231969999999,
+    "id": "ChIJ-7nil2-dX0YRHMOSqw4KavM"
+  },
+  {
+    "name": "Indio Studios",
+    "category": "Latin/South American",
+    "lng": 18.0305346,
+    "lat": 59.3152984,
+    "id": "ChIJYW77wMV3X0YR5uTJtee1-fo"
+  },
+  {
+    "name": "Café Dignity",
+    "category": "Latin/South American",
+    "lng": 17.9687066,
+    "lat": 59.33515480000001,
+    "id": "ChIJMd8uLYN3X0YRLWOB70Wjcw8"
+  },
+  {
+    "name": "Kaffe Express Colombia",
+    "category": "Latin/South American",
+    "lng": 18.0814531,
+    "lat": 59.2566317,
+    "id": "ChIJr0uxA8F5X0YRrH5Wd3cahO4"
+  },
+  {
+    "name": "SantaSalsa",
+    "category": "Latin/South American",
+    "lng": 18.119303,
+    "lat": 59.3429446,
+    "id": "ChIJKVDcEViDX0YRb6EpT0XFj_8"
+  },
+  {
+    "name": "Kamuchas,",
+    "category": "Latin/South American",
+    "lng": 18.0142182,
+    "lat": 59.2621095,
+    "id": "ChIJD3YYkUV3X0YR6ejtEHvrXvo"
+  },
+  {
+    "name": "K25",
+    "category": "Food court",
+    "lng": 18.0673372,
+    "lat": 59.3357364,
+    "id": "ChIJizx2Bl2dX0YR_p7fUA7zm1o"
+  },
+  {
+    "name": "Teatern Ringen",
+    "category": "Food court",
+    "lng": 18.0758254,
+    "lat": 59.3083038,
+    "id": "ChIJiy9VufZ3X0YRjP5B9jJq5U0"
+  },
+  {
+    "name": "Hötorgshallen",
+    "category": "Food court",
+    "lng": 18.0627779,
+    "lat": 59.3341667,
+    "id": "ChIJt-rFEV-dX0YR8pASKtKXAgg"
+  },
+  {
+    "name": "Östermalmshallen",
+    "category": "Food court",
+    "lng": 18.0776888,
+    "lat": 59.3359544,
+    "id": "ChIJOWEJJFudX0YRWjW0uiJOeD0"
+  },
+  {
+    "name": "Söderhallarna",
+    "category": "Food court",
+    "lng": 18.0708423,
+    "lat": 59.3144998,
+    "id": "ChIJH3s0mfp3X0YRxLjVXd-8Il4"
+  },
+  {
+    "name": "Kungshallen",
+    "category": "Food court",
+    "lng": 18.0621624,
+    "lat": 59.3353778,
+    "id": "ChIJLZGRZGedX0YRZgOjk1DcKwU"
+  },
+  {
+    "name": "NK Saluhall",
+    "category": "Food court",
+    "lng": 18.0689583,
+    "lat": 59.33291209999999,
+    "id": "ChIJUfytGVydX0YRXtBjzpi5edA"
+  },
+  {
+    "name": "Greasy Spoon",
+    "category": "Brunch",
+    "lng": 18.0529242,
+    "lat": 59.3443115,
+    "id": "ChIJu_6IT26dX0YRhAcptCNJJMI"
+  },
+  {
+    "name": "STHLM Brunch Club",
+    "category": "Brunch",
+    "lng": 18.0482894,
+    "lat": 59.3392287,
+    "id": "ChIJLRt8b3NzX0YR58AtbJJuBbo"
+  },
+  {
+    "name": "Berns Asiatiska",
+    "category": "Brunch",
+    "lng": 18.0735199,
+    "lat": 59.33215999999999,
+    "id": "ChIJ-3FB7FudX0YRr90pQazajiM"
+  },
+  {
+    "name": "Rival",
+    "category": "Brunch",
+    "lng": 18.0637996,
+    "lat": 59.3181838,
+    "id": "ChIJmyzqNeR3X0YRfhATfm0KISQ"
+  },
+  {
+    "name": "Trattorian",
+    "category": "Brunch",
+    "lng": 18.043523,
+    "lat": 59.32646829999999,
+    "id": "ChIJ5Wx0GNl3X0YR9NlpDjxVxkc"
+  },
+  {
+    "name": "Cykelcafé Le Mond",
+    "category": "Brunch",
+    "lng": 18.0799249,
+    "lat": 59.3144589,
+    "id": "ChIJXSCuI_p3X0YRgX1NRceeghA"
+  },
+  {
+    "name": "Kung Carls Bakficka",
+    "category": "Brunch",
+    "lng": 18.0711765,
+    "lat": 59.33652110000001,
+    "id": "ChIJreQ66lydX0YR0CGv5DpvVFE"
+  },
+  {
+    "name": "Gast",
+    "category": "Coffee",
+    "lng": 18.0566768,
+    "lat": 59.33974920000001,
+    "id": "ChIJ2-JnAWadX0YR-aBRIe13v54"
+  },
+  {
+    "name": "Mellqvists",
+    "category": "Coffee",
+    "lng": 18.0356529,
+    "lat": 59.3397845,
+    "id": "ChIJ89mS1XudX0YR8-OM29Zo3jk"
+  },
+  {
+    "name": "Kaffe",
+    "category": "Coffee",
+    "lng": 18.05919,
+    "lat": 59.32942,
+    "id": "ChIJQxZke2CdX0YR1_dWkvdh5H8"
+  },
+  {
+    "name": "Drop Coffee",
+    "category": "Coffee",
+    "lng": 18.062788,
+    "lat": 59.31691720000001,
+    "id": "ChIJ7QBKvuV3X0YRHP5IH4gh4jw"
+  },
+  {
+    "name": "Johan & Nyström",
+    "category": "Coffee",
+    "lng": 18.0640546,
+    "lat": 59.31633739999999,
+    "id": "ChIJr0sknOV3X0YRSIe2KVTV05Q"
+  },
+  {
+    "name": "Sosta",
+    "category": "Coffee",
+    "lng": 18.0588699,
+    "lat": 59.3408382,
+    "id": "ChIJk4MCvGidX0YRh92fmVUlg5I"
+  },
+  {
+    "name": "Non Solo Bar",
+    "category": "Coffee",
+    "lng": 18.0355333,
+    "lat": 59.3398046,
+    "id": "ChIJ89mS1XudX0YRDu0LJidalBg"
+  },
+  {
+    "name": "Savant",
+    "category": "Coffee",
+    "lng": 18.0633862,
+    "lat": 59.3405558,
+    "id": "ChIJbyASXBSdX0YR-4Io0DfnxEA"
+  },
+  {
+    "name": "Kafé Orion",
+    "category": "Coffee",
+    "lng": 18.0507896,
+    "lat": 59.3433459,
+    "id": "ChIJcyeeyW-dX0YRrod1mQM57Dw"
+  },
+  {
+    "name": "Café Frankfurt",
+    "category": "Coffee",
+    "lng": 18.0464704,
+    "lat": 59.3314976,
+    "id": "ChIJueyORGKdX0YR0vCkSLPakT0"
+  },
+  {
+    "name": "Poli",
+    "category": "Coffee",
+    "lng": 18.0307352,
+    "lat": 59.33350549999999,
+    "id": "ChIJJ0wBdX6dX0YRDJyryyWI45g"
+  },
+  {
+    "name": "Lykke",
+    "category": "Coffee",
+    "lng": 18.0570601,
+    "lat": 59.3325796,
+    "id": "ChIJB-rEmDKdX0YRCwBRX1kXmzU"
+  },
+  {
+    "name": "BAK",
+    "category": "Coffee",
+    "lng": 18.0955151,
+    "lat": 59.2591417,
+    "id": "ChIJf-6KELl5X0YRSKJMAIG8rFU"
+  },
+  {
+    "name": "Pascal",
+    "category": "Coffee",
+    "lng": 18.0519718,
+    "lat": 59.34210189999999,
+    "id": "ChIJy8mqQ_d3X0YRTsBt6D4db8E"
+  },
+  {
+    "name": "Råbust",
+    "category": "Coffee",
+    "lng": 18.0123307,
+    "lat": 59.3387474,
+    "id": "ChIJk1_K0mqdX0YRBa16An-vhzk"
+  },
+  {
+    "name": "Black Honey Coffee Roasters",
+    "category": "Coffee",
+    "lng": 18.0466739,
+    "lat": 59.32864590000001,
+    "id": "ChIJSfr239h3X0YRH3TsC4nWlJc"
+  },
+  {
+    "name": "A.B.Café",
+    "category": "Coffee",
+    "lng": 17.9986574,
+    "lat": 59.2996016,
+    "id": "ChIJkT_ha613X0YR3WlZptkDgAk"
+  },
+  {
+    "name": "Guld Kaffe & Kök",
+    "category": "Coffee",
+    "lng": 18.0441263,
+    "lat": 59.33953380000001,
+    "id": "ChIJNwg-aQidX0YRef6UzAB_fwI"
+  },
+  {
+    "name": "Corvina Enoteca",
+    "category": "Wine",
+    "lng": 18.0711744,
+    "lat": 59.3231092,
+    "id": "ChIJMS584uJ3X0YRBIEgnYZ5oZM"
+  },
+  {
+    "name": "Hornstulls Bodega",
+    "category": "Wine",
+    "lng": 18.0347985,
+    "lat": 59.3162112,
+    "id": "ChIJifRNWMR3X0YRciE1CsESUL8"
+  },
+  {
+    "name": "Gaston",
+    "category": "Wine",
+    "lng": 18.0686511,
+    "lat": 59.3232288,
+    "id": "ChIJJ5WTq-N3X0YRXo6u3swqfe8"
+  },
+  {
+    "name": "Grus Grus",
+    "category": "Wine",
+    "lng": 18.0491918,
+    "lat": 59.3431732,
+    "id": "ChIJBbjGoWydX0YR6aZPpXYsVag"
+  },
+  {
+    "name": "Folii",
+    "category": "Wine",
+    "lng": 18.0904021,
+    "lat": 59.3140358,
+    "id": "ChIJtfRgiQJ4X0YRuNNtD1LyZfs"
+  },
+  {
+    "name": "Ambar",
+    "category": "Wine",
+    "lng": 18.0321439,
+    "lat": 59.3414942,
+    "id": "ChIJz1a1s3mdX0YRgJ7N--n-QPk"
+  },
+  {
+    "name": "E&G",
+    "category": "Wine",
+    "lng": 18.0607812,
+    "lat": 59.3479494,
+    "id": "ChIJKfcuXcKdX0YRnCo5MuV-c_I"
+  },
+  {
+    "name": "Kungsholmens Vinbar",
+    "category": "Wine",
+    "lng": 18.0289728,
+    "lat": 59.3350788,
+    "id": "ChIJtbPR3hGdX0YRjitym5-TLqY"
+  },
+  {
+    "name": "Tyge & Sessil",
+    "category": "Wine",
+    "lng": 18.0757514,
+    "lat": 59.33710660000001,
+    "id": "ChIJEWBNUludX0YRBlDTfl_NNWA"
+  },
+  {
+    "name": "Cork",
+    "category": "Wine",
+    "lng": -8.4756035,
+    "lat": 51.8985143,
+    "id": "ChIJYbm-kQiQREgR0MUxl6nHAAo"
+  },
+  {
+    "name": "Bar Oas",
+    "category": "Wine",
+    "lng": 18.0579938,
+    "lat": 59.33714219999999,
+    "id": "ChIJhyLBNsOdX0YR1QG9h1gmiMQ"
+  },
+  {
+    "name": "Dryck",
+    "category": "Wine",
+    "lng": 18.0635381,
+    "lat": 59.3174367,
+    "id": "ChIJvWYtuuV3X0YRt8jxSE0PqZc"
+  },
+  {
+    "name": "Vina",
+    "category": "Wine",
+    "lng": 18.0821021,
+    "lat": 59.3115509,
+    "id": "ChIJ4yoNnPd3X0YRoX6nk4QZ0GA"
+  },
+  {
+    "name": "Cave Nizza",
+    "category": "Wine",
+    "lng": 18.0865521,
+    "lat": 59.31475929999999,
+    "id": "ChIJ5wiTgH93X0YRkfp9fPm8mJ8"
+  },
+  {
+    "name": "Tocayo",
+    "category": "Wine",
+    "lng": 18.0319725,
+    "lat": 59.31759919999999,
+    "id": "ChIJR4JO45F3X0YRfW41ma6IKfc"
+  },
+  {
+    "name": "Enoteca La Mela",
+    "category": "Wine",
+    "lng": 18.0327691,
+    "lat": 59.3150158,
+    "id": "ChIJq3DOCel3X0YRP2F5ba_Qt-8"
+  },
+  {
+    "name": "Bar Ninja",
+    "category": "Wine",
+    "lng": 18.0797677,
+    "lat": 59.3116043,
+    "id": "ChIJ55bdqad3X0YReI-S764RwPk"
+  },
+  {
+    "name": "Amfora",
+    "category": "Wine",
+    "lng": 18.0653723,
+    "lat": 59.34048439999999,
+    "id": "ChIJJ6mhjTedX0YRJNk5dvYzrys"
+  },
+  {
+    "name": "Nektar mat & vin",
+    "category": "Wine",
+    "lng": 18.03386,
+    "lat": 59.3400928,
+    "id": "ChIJ4WbOCW2dX0YRLtWMFQEF4A4"
+  },
+  {
+    "name": "Bar Libertin",
+    "category": "Wine",
+    "lng": 17.9976308,
+    "lat": 59.30615699999999,
+    "id": "ChIJpWGpQit3X0YR6veEQFaYEmA"
+  },
+  {
+    "name": "Brewdog",
+    "category": "Craft beer",
+    "lng": 18.0341887,
+    "lat": 59.33623050000001,
+    "id": "ChIJEQ0WGHydX0YRnax1GPNtGzo"
+  },
+  {
+    "name": "Akkurat",
+    "category": "Craft beer",
+    "lng": 18.0685442,
+    "lat": 59.31984120000001,
+    "id": "ChIJg8hO9cR3X0YRWLVKnRc3Aok"
+  },
+  {
+    "name": "Man in the Moon",
+    "category": "Craft beer",
+    "lng": 18.0642775,
+    "lat": 59.34078779999999,
+    "id": "ChIJr4-XOGidX0YRzKr4KLrbD7M"
+  },
+  {
+    "name": "Babajan",
+    "category": "Craft beer",
+    "lng": 18.0896821,
+    "lat": 59.30844529999999,
+    "id": "ChIJ4axbVRx4X0YRU8RwPbDcY4M"
+  },
+  {
+    "name": "Katarina ölkafé",
+    "category": "Craft beer",
+    "lng": 18.0793695,
+    "lat": 59.31164589999999,
+    "id": "ChIJ3Y2ua_d3X0YRSw9RghMgJNY"
+  },
+  {
+    "name": "Nya Carnegiebryggeriet",
+    "category": "Craft beer",
+    "lng": 18.0987487,
+    "lat": 59.30531089999999,
+    "id": "ChIJ8wUaNBp4X0YRbGSJClNvgr8"
+  },
+  {
+    "name": "Bierhaus",
+    "category": "Craft beer",
+    "lng": 18.0619966,
+    "lat": 59.34030629999999,
+    "id": "ChIJVVVViWidX0YRS-V2a3tsQ8s"
+  },
+  {
+    "name": "Omnipollos hatt",
+    "category": "Craft beer",
+    "lng": 18.0722738,
+    "lat": 59.3180572,
+    "id": "ChIJowodOvt3X0YRjYM1JobP3Gg"
+  },
+  {
+    "name": "Lådan",
+    "category": "Craft beer",
+    "lng": 18.0601711,
+    "lat": 59.34038919999999,
+    "id": "ChIJhSjWj2idX0YRuBNFBG7hhiQ"
+  },
+  {
+    "name": "Mikkeller",
+    "category": "Craft beer",
+    "lng": 18.0754407,
+    "lat": 59.3372159,
+    "id": "ChIJVVVlVludX0YR_HV_6Yc839w"
+  },
+  {
+    "name": "Stigbergets fot",
+    "category": "Craft beer",
+    "lng": 18.0709512,
+    "lat": 59.3191221,
+    "id": "ChIJPcPBsJp3X0YR5EEpe9OyKNI"
+  },
+  {
+    "name": "Oliver Twist",
+    "category": "Craft beer",
+    "lng": 18.0698503,
+    "lat": 59.3183459,
+    "id": "ChIJF4VOz-R3X0YRz6NqrPjre3k"
+  },
+  {
+    "name": "Stockholm Brewing Taproom",
+    "category": "Craft beer",
+    "lng": 18.1195382,
+    "lat": 59.3427023,
+    "id": "ChIJUX08NfZ3X0YRcbIckPjOBzo"
+  },
+  {
+    "name": "Omaka",
+    "category": "Craft beer",
+    "lng": 18.0687704,
+    "lat": 59.3436768,
+    "id": "ChIJBe-KuZWdX0YR7F9-Cpd4Dd4"
+  },
+  {
+    "name": "Beer n’ Play",
+    "category": "Craft beer",
+    "lng": 18.0414314,
+    "lat": 59.3164125,
+    "id": "ChIJ_w70V7x3X0YRnap5AMrEojc"
+  },
+  {
+    "name": "Omnipollo Kyrkan",
+    "category": "Craft beer",
+    "lng": 17.9663042,
+    "lat": 59.3636041,
+    "id": "ChIJf_68taKdX0YRWDik6wd6DDA"
+  },
+  {
+    "name": "Sorbon",
+    "category": "Craft beer",
+    "lng": 17.9405152,
+    "lat": 59.3398951,
+    "id": "ChIJYTnJFP51X0YR__gmF0HbXq0"
+  },
+  {
+    "name": "Kaja",
+    "category": "Craft beer",
+    "lng": 18.0700531,
+    "lat": 59.3179221,
+    "id": "ChIJm6yTcmV3X0YRkGyT4b1e9jk"
+  },
+  {
+    "name": "Tunnlandet",
+    "category": "Craft beer",
+    "lng": 17.9374462,
+    "lat": 59.33800339999999,
+    "id": "ChIJV8ftzv11X0YRoylXzeT0Gt4"
+  },
+  {
+    "name": "Erlands",
+    "category": "Cocktails",
+    "lng": 18.0402675,
+    "lat": 59.3405172,
+    "id": "ChIJA5yLXHqdX0YRUeQr7LsXAQo"
+  },
+  {
+    "name": "Pharmarium",
+    "category": "Cocktails",
+    "lng": 18.0710531,
+    "lat": 59.3248939,
+    "id": "ChIJvZ5qiuJ3X0YRuXir1p3HI7M"
+  },
+  {
+    "name": "Tjoget",
+    "category": "Cocktails",
+    "lng": 18.0349195,
+    "lat": 59.3161851,
+    "id": "ChIJrZBLWMR3X0YR-K4amPgKyas"
+  },
+  {
+    "name": "Reisen",
+    "category": "Cocktails",
+    "lng": 18.0753632,
+    "lat": 59.3254337,
+    "id": "ChIJCROhqeJ3X0YRB-bAbUDczMs"
+  },
+  {
+    "name": "Tweed",
+    "category": "Cocktails",
+    "lng": 18.0678829,
+    "lat": 59.3243952,
+    "id": "ChIJ0dmQR-J3X0YR6VIEEHi_3bo"
+  },
+  {
+    "name": "Hommage",
+    "category": "Cocktails",
+    "lng": 18.0560189,
+    "lat": 59.3174082,
+    "id": "ChIJJWdNQOZ3X0YRmyVKXr9n7I4"
+  },
+  {
+    "name": "Apropos",
+    "category": "Cocktails",
+    "lng": 18.0386126,
+    "lat": 59.3390461,
+    "id": "ChIJ1xSrsXudX0YRJH0PgzLRJuw"
+  },
+  {
+    "name": "Lucy's Flower Shop",
+    "category": "Cocktails",
+    "lng": 18.0720358,
+    "lat": 59.33661559999999,
+    "id": "ChIJG6VO5MGdX0YRwIGjU2hJNNc"
+  },
+  {
+    "name": "JiuBar",
+    "category": "Cocktails",
+    "lng": 139.7414626,
+    "lat": 35.7010113,
+    "id": "ChIJX5pbJluMGGAR7TWvI02TBC8"
+  },
+  {
+    "name": "Gemma",
+    "category": "Cocktails",
+    "lng": 18.0770937,
+    "lat": 59.337024,
+    "id": "ChIJh6-75hmdX0YRaj0z1BVP-Ug"
+  },
+  {
+    "name": "Bar Lilla Compagniet",
+    "category": "Cocktails",
+    "lng": 18.074324,
+    "lat": 59.31888679999999,
+    "id": "ChIJeUAlqMZ3X0YRQsmpcCjYzR8"
+  },
+  {
+    "name": "Animo",
+    "category": "Cocktails",
+    "lng": 18.0644627,
+    "lat": 59.3429981,
+    "id": "ChIJGdV4b_KdX0YR3a1FEBECbYk"
+  },
+  {
+    "name": "Hernö Gin Bar",
+    "category": "Cocktails",
+    "lng": 18.070398,
+    "lat": 59.319736,
+    "id": "ChIJ06RlUoh3X0YREkdPG3Lgtac"
+  },
+  {
+    "name": "Carmen",
+    "category": "Dive bar",
+    "lng": 18.0759323,
+    "lat": 59.3150802,
+    "id": "ChIJQVyoQPp3X0YR8Wkr30pxiyU"
+  },
+  {
+    "name": "Lion Bar",
+    "category": "Dive bar",
+    "lng": 18.0597901,
+    "lat": 59.3398946,
+    "id": "ChIJR0uPnGidX0YRT7RD-y_cayI"
+  },
+  {
+    "name": "Crazy Horse",
+    "category": "Dive bar",
+    "lng": 18.060939,
+    "lat": 59.3386143,
+    "id": "ChIJuTyLzWedX0YR5JVwKa-5kkc"
+  },
+  {
+    "name": "Hirschenkeller",
+    "category": "Dive bar",
+    "lng": 18.0580546,
+    "lat": 59.3409917,
+    "id": "ChIJvXQlt2idX0YRPLYWAxjtgPs"
+  },
+  {
+    "name": "Dovas/D-pub",
+    "category": "Dive bar",
+    "lng": 18.0331169,
+    "lat": 59.3355718,
+    "id": "ChIJSQ_SJnydX0YR5xyBjA1bwsQ"
+  },
+  {
+    "name": "Far & Son",
+    "category": "Dive bar",
+    "lng": 18.0298001,
+    "lat": 59.33331440000001,
+    "id": "ChIJIwDvDH6dX0YRYSqe3fQJ974"
+  },
+  {
+    "name": "Baras",
+    "category": "Dive bar",
+    "lng": 18.0704961,
+    "lat": 59.3133407,
+    "id": "ChIJCxrubfB3X0YRhnnOfxCTmy4"
+  },
+  {
+    "name": "Lilla Blecktornskällaren",
+    "category": "Dive bar",
+    "lng": 18.0824471,
+    "lat": 59.3090688,
+    "id": "ChIJD4A2NvZ3X0YRTFamAHArJDY"
+  },
+  {
+    "name": "Diset",
+    "category": "Dive bar",
+    "lng": 17.9886281,
+    "lat": 59.3055378,
+    "id": "ChIJCXAzhE52X0YRWXZYcSdqKlk"
+  },
+  {
+    "name": "Retro",
+    "category": "Dive bar",
+    "lng": 18.0311616,
+    "lat": 59.3316282,
+    "id": "ChIJsUWwHdZ3X0YR6ZCRoHRFtw8"
+  },
+  {
+    "name": "Snövit",
+    "category": "Dive bar",
+    "lng": 18.0821656,
+    "lat": 59.309002,
+    "id": "ChIJ2xrbNfZ3X0YRDBecFb3FAeo"
+  },
+  {
+    "name": "Harvest Home",
+    "category": "Dive bar",
+    "lng": 18.083918,
+    "lat": 59.3134082,
+    "id": "ChIJjVKiavh3X0YRGt6gXt7JTX0"
+  },
+  {
+    "name": "Älgen",
+    "category": "Dive bar",
+    "lng": 18.0337996,
+    "lat": 59.314874,
+    "id": "ChIJFcscJbZ3X0YRaMqbns24iZ8"
+  },
+  {
+    "name": "Ölstugan Tullen",
+    "category": "Dive bar",
+    "lng": 18.0428659,
+    "lat": 59.3291291,
+    "id": "ChIJTVgE44d3X0YRt7KZch650Sc"
+  },
+  {
+    "name": "Pinnochio",
+    "category": "Dive bar",
+    "lng": 2.396558,
+    "lat": 50.6430505,
+    "id": "ChIJv-4_bZoC3UcRM2xKVCcJyQQ"
+  },
+  {
+    "name": "Ylias",
+    "category": "Dive bar",
+    "lng": 18.0715058,
+    "lat": 59.31563869999999,
+    "id": "ChIJg7AkwPp3X0YRVNynwNEWBr0"
+  },
+  {
+    "name": "Trädgården",
+    "category": "Outdoor bar",
+    "lng": 18.0778112,
+    "lat": 59.3047676,
+    "id": "ChIJTex4ofV3X0YRq79nToaz98Q"
+  },
+  {
+    "name": "Bleck",
+    "category": "Outdoor bar",
+    "lng": 18.0860816,
+    "lat": 59.3094455,
+    "id": "ChIJY5HRex14X0YRU7DLCjuFlsA"
+  },
+  {
+    "name": "Boule & Berså",
+    "category": "Outdoor bar",
+    "lng": 18.1059322,
+    "lat": 59.3140334,
+    "id": "ChIJvzv1wwV4X0YRfrYXbNye6DM"
+  },
+  {
+    "name": "Seaside Bar",
+    "category": "Outdoor bar",
+    "lng": 18.056485,
+    "lat": 59.321309,
+    "id": "ChIJ6bQJPOd3X0YR4f7bWiOrphI"
+  },
+  {
+    "name": "Fållan",
+    "category": "Outdoor bar",
+    "lng": 18.1180918,
+    "lat": 59.22825899999999,
+    "id": "ChIJfd31UHx5X0YRPA_fQJR7Y40"
+  },
+  {
+    "name": "Kvarteret",
+    "category": "Outdoor bar",
+    "lng": 18.0548951,
+    "lat": 59.33334439999999,
+    "id": "ChIJLXYIO2GdX0YRKcBykS-wnHw"
+  },
+  {
+    "name": "Eden",
+    "category": "Outdoor bar",
+    "lng": 18.0699377,
+    "lat": 59.3346124,
+    "id": "ChIJxTZRXFydX0YRBwy68tHJUM0"
+  },
+  {
+    "name": "Plåtparken",
+    "category": "Outdoor bar",
+    "lng": 18.0706095,
+    "lat": 59.3040069,
+    "id": "ChIJPdNUyH53X0YRwafbkCIM-qo"
+  },
+  {
+    "name": "Freddas",
+    "category": "Outdoor bar",
+    "lng": 18.0722421,
+    "lat": 59.30378019999999,
+    "id": "ChIJ-3cWkfR3X0YRsDiytZK-alY"
+  },
+  {
+    "name": "Klara Sjökafé",
+    "category": "Outdoor bar",
+    "lng": 18.0690807,
+    "lat": 59.32358900000001,
+    "id": "ChIJadSvU-J3X0YRDuMBWE_6qLA"
+  },
+  {
+    "name": "Stockholm under stjärnorna",
+    "category": "Rooftop bar",
+    "lng": 18.0669868,
+    "lat": 59.33073439999999,
+    "id": "ChIJlxRGo4SdX0YRzUhL-GeewiE"
+  },
+  {
+    "name": "Scandic Continental",
+    "category": "Rooftop bar",
+    "lng": 18.0595668,
+    "lat": 59.3310944,
+    "id": "ChIJdYTugWCdX0YR1GJZrkfXx94"
+  },
+  {
+    "name": "Urban Deli Sveavägen",
+    "category": "Rooftop bar",
+    "lng": 18.0628338,
+    "lat": 59.3367113,
+    "id": "ChIJpa88l2edX0YRMSg5kZC2DCk"
+  },
+  {
+    "name": "Tak",
+    "category": "Rooftop bar",
+    "lng": 18.0671208,
+    "lat": 59.33051119999999,
+    "id": "ChIJI_J76V6dX0YRP1N-_F032QA"
+  },
+  {
+    "name": "Scandic Sjöfartshotellet",
+    "category": "Rooftop bar",
+    "lng": 18.0758744,
+    "lat": 59.3187221,
+    "id": "ChIJEW_Le_t3X0YRStdY6V8dTyU"
+  },
+  {
+    "name": "Mosebacketerrassen",
+    "category": "Rooftop bar",
+    "lng": 18.0751684,
+    "lat": 59.318476,
+    "id": "ChIJRZYadlZ3X0YREnx9XvTFzxk"
+  },
+  {
+    "name": "Hornhuset",
+    "category": "Rooftop bar",
+    "lng": 18.0337446,
+    "lat": 59.3166568,
+    "id": "ChIJgRrZE8V3X0YRpPk3stNxvbA"
+  },
+  {
+    "name": "Blique by Nobis",
+    "category": "Rooftop bar",
+    "lng": 18.0360878,
+    "lat": 59.34601139999999,
+    "id": "ChIJuxzKCMydX0YRhyyLKRBmlPc"
+  },
+  {
+    "name": "Sjöstaden Skybar",
+    "category": "Rooftop bar",
+    "lng": 18.0830612,
+    "lat": 59.3012237,
+    "id": "ChIJvRvdXo15X0YRSmmLM3fE53o"
+  },
+  {
+    "name": "Tetto",
+    "category": "Rooftop bar",
+    "lng": 18.0664794,
+    "lat": 59.3333623,
+    "id": "ChIJzQYW7BWdX0YRh-l7LWk67qQ"
+  },
+  {
+    "name": "Clarion Hotel Sign",
+    "category": "Rooftop bar",
+    "lng": 18.0531934,
+    "lat": 59.33475759999999,
+    "id": "ChIJc7gNTWGdX0YRKG-_8pWA0rM"
+  },
+  {
+    "name": "Le Hibou",
+    "category": "Rooftop bar",
+    "lng": 18.0746518,
+    "lat": 59.33138899999999,
+    "id": "ChIJEwLnEpudX0YR3ujcy06UuFY"
+  },
+  {
+    "name": "Ljunggrens Terrass",
+    "category": "Rooftop bar",
+    "lng": 17.9976074,
+    "lat": 59.33174729999999,
+    "id": "ChIJbWqOGSZ2X0YR0Wd1KVQfi4I"
+  },
+  {
+    "name": "Winery Rooftop Bar",
+    "category": "Rooftop bar",
+    "lng": 18.0123131,
+    "lat": 59.3775128,
+    "id": "ChIJezgr8bWdX0YRb-aFasY1kpQ"
+  },
+  {
+    "name": "Naboterassen",
+    "category": "Rooftop bar",
+    "lng": 18.0674632,
+    "lat": 59.33321660000001,
+    "id": "ChIJacZM2N6dX0YRzjKsfKjBOP8"
+  }
+]
