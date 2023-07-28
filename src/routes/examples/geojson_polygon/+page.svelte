@@ -25,6 +25,8 @@
   }
 
   $: colors = contrastingColor(fillColor);
+  $: console.log(colors)
+  console.log(fillColor)
   $: if (map && loaded) {
     for (let layer of textLayers) {
       map.setPaintProperty(layer.id, 'text-color', colors.textColor);
@@ -32,6 +34,7 @@
     }
   }
   // END EXTRACT
+  
 </script>
 
 <div class="self-start w-full max-w-md grid gap-y-2 items-center">
